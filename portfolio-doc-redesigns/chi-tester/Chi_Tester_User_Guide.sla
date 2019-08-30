@@ -1,0 +1,716 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.3">
+    <DOCUMENT ANZPAGES="9" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="Roboto Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="1" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <COLOR NAME="blue.Dark" RGB="#132361"/>
+        <COLOR NAME="blue.Light" RGB="#8794c6"/>
+        <COLOR NAME="blue.Primary" RGB="#3c4c8f"/>
+        <COLOR NAME="green.Dark" RGB="#0a6f16"/>
+        <COLOR NAME="green.Light" RGB="#8ad793"/>
+        <COLOR NAME="green.Primary" RGB="#37a344"/>
+        <COLOR NAME="grey.Black" RGB="#4a4a4a"/>
+        <COLOR NAME="red.Dark" RGB="#8f130c"/>
+        <COLOR NAME="red.Primary" RGB="#d34e47"/>
+        <COLOR NAME="red.light" RGB="#ffa8a3"/>
+        <COLOR NAME="yellow.Dark" RGB="#8f680c"/>
+        <COLOR NAME="yellow.Light" RGB="#ffe3a3"/>
+        <COLOR NAME="yellow.Primary" RGB="#d3a947"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="Topic header" LINESPMode="0" LINESP="26" VOR="6" NACH="16" OpticalMargins="0" FONT="IBM Plex Serif SemiBold" FONTSIZE="24" FONTFEATURES="-clig" FEATURES="" FCOLOR="grey.Black" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" LANGUAGE="en_US"/>
+        <STYLE NAME="Body" LINESPMode="1" FONT="Roboto Light" FONTSIZE="16" FONTFEATURES="-clig" FCOLOR="grey.Black" LANGUAGE="en_US"/>
+        <STYLE NAME="Procedure header" PARENT="Topic header" VOR="3" NACH="8" FONT="IBM Plex Serif Italic" FONTSIZE="16" FONTFEATURES="-clig" FCOLOR="White" BGCOLOR="blue.Light"/>
+        <STYLE NAME="OL" PARENT="Body" LINESPMode="0" LINESP="18" INDENT="21.6" VOR="2" NACH="8" ParagraphEffectOffset="3.6" ParagraphEffectIndent="1" DROP="0" Bullet="0" Numeration="0" NumerationFormat="4" NumerationLevel="0" NumerationRestart="0"/>
+        <STYLE NAME="Note" PARENT="Body" FONTSIZE="14"/>
+        <STYLE NAME="Body smaller" PARENT="Body" FONTSIZE="14"/>
+        <STYLE NAME="OL smaller" PARENT="OL" FONTSIZE="14"/>
+        <STYLE NAME="TOC" ALIGN="0" LINESPMode="0" INDENT="0" RMARGIN="0" FIRST="0" VOR="6" BCOLOR="None" FONT="IBM Plex Serif Bold" FONTSIZE="16" FONTFEATURES="-clig" FCOLOR="grey.Black" LANGUAGE="en_US">
+            <Tabs Type="0" Pos="288" Fill=""/>
+            <Tabs Type="1" Pos="540" Fill="."/>
+            <Tabs Type="0" Pos="815" Fill=""/>
+        </STYLE>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Arial Regular" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Bold" FONT="Roboto Black" FONTSIZE="16" FONTFEATURES="-clig" FCOLOR="grey.Black" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Italic" CPARENT="Bold" FONT="Roboto Light" FONTSIZE="16" FONTFEATURES="-clig" FCOLOR="grey.Black" BGCOLOR="None"/>
+        <CHARSTYLE CNAME="Action result" FONT="Roboto Light Italic" FONTSIZE="14" FONTFEATURES="-clig" FCOLOR="grey.Black" FSHADE="100" LANGUAGE="en_US"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-9473936" PDLanguage="-9473936" markLength="-8.1549618475431e+141" markOffset="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="IBM Plex Serif Bold"/>
+            <Fonts Name="IBM Plex Serif Italic"/>
+            <Fonts Name="IBM Plex Serif Medium"/>
+            <Fonts Name="IBM Plex Serif SemiBold"/>
+            <Subset Name="Arial Regular"/>
+            <Subset Name="Roboto Black"/>
+            <Subset Name="Roboto Light"/>
+            <Subset Name="Roboto Light Italic"/>
+            <Subset Name="Roboto Medium Italic"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes>
+            <ItemAttribute Name="TOC" Type="none" Value="" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+        </DocItemAttributes>
+        <TablesOfContents>
+            <TableOfContents Name="Table of Contents" ItemAttributeName="TOC" FrameName="TOC_Frame" ListNonPrinting="0" Style="TOC" NumberPlacement="End"/>
+        </TablesOfContents>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="8" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="3" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="852" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" NUM="1" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="5" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1684" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" NUM="2" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="3" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2516" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" NUM="3" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="3" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3348" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" NUM="4" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="3" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4180" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" NUM="5" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="3" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5012" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" NUM="6" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="3" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5844" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" NUM="7" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="3" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="6676" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="28.8" BORDERRIGHT="28.8" BORDERTOP="28.8" BORDERBOTTOM="28.8" NUM="8" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="3" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <FRAMEOBJECT InID="26392" XPOS="0" YPOS="0" OwnPage="-1" ItemID="107105248" PTYPE="7" WIDTH="10.9992" HEIGHT="9.34100000000063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 5.16659 L1.75364 9.13527 C1.49425 9.40958 1.07481 9.40958 0.818179 9.13527 L0.194542 8.47577 C-0.0648473 8.20146 -0.0648473 7.7579 0.194542 7.48652 L2.85466 4.67342 L0.194542 1.86032 C-0.0648473 1.58601 -0.0648473 1.14246 0.194542 0.871068 L0.81542 0.20573 C1.07481 -0.0685765 1.49425 -0.0685765 1.75088 0.20573 L5.50374 4.17441 C5.76589 4.44872 5.76589 4.89228 5.5065 5.16659 L5.5065 5.16659 M10.8047 4.17441 L7.0518 0.20573 C6.79241 -0.0685765 6.37297 -0.0685765 6.11634 0.20573 L5.4927 0.865232 C5.23331 1.13954 5.23331 1.5831 5.4927 1.85448 L8.15282 4.66758 L5.4927 7.48068 C5.23331 7.75499 5.23331 8.19854 5.4927 8.46993 L6.11634 9.12943 C6.37573 9.40374 6.79517 9.40374 7.0518 9.12943 L10.8047 5.16075 C11.064 4.89228 11.064 4.44872 10.8047 4.17441 " copath="M5.5065 5.16659 L1.75364 9.13527 C1.49425 9.40958 1.07481 9.40958 0.818179 9.13527 L0.194542 8.47577 C-0.0648473 8.20146 -0.0648473 7.7579 0.194542 7.48652 L2.85466 4.67342 L0.194542 1.86032 C-0.0648473 1.58601 -0.0648473 1.14246 0.194542 0.871068 L0.81542 0.20573 C1.07481 -0.0685765 1.49425 -0.0685765 1.75088 0.20573 L5.50374 4.17441 C5.76589 4.44872 5.76589 4.89228 5.5065 5.16659 L5.5065 5.16659 Z M10.8047 4.17441 L7.0518 0.20573 C6.79241 -0.0685765 6.37297 -0.0685765 6.11634 0.20573 L5.4927 0.865232 C5.23331 1.13954 5.23331 1.5831 5.4927 1.85448 L8.15282 4.66758 L5.4927 7.48068 C5.23331 7.75499 5.23331 8.19854 5.4927 8.46993 L6.11634 9.12943 C6.37573 9.40374 6.79517 9.40374 7.0518 9.12943 L10.8047 5.16075 C11.064 4.89228 11.064 4.44872 10.8047 4.17441 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="9.34100000000063" LAYER="0"/>
+        <FRAMEOBJECT InID="18444" XPOS="500.004" YPOS="27556.1136" OwnPage="-1" ItemID="106681200" PTYPE="7" WIDTH="10.9992" HEIGHT="8.58420000000006" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 " copath="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 Z M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="8.58420000000024" LAYER="0"/>
+        <FRAMEOBJECT InID="11017" XPOS="0" YPOS="0" OwnPage="-1" ItemID="107329056" PTYPE="7" WIDTH="10.9992" HEIGHT="8.96000000000026" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.95586 L1.75364 8.76266 C1.49425 9.02578 1.07481 9.02578 0.818179 8.76266 L0.194542 8.13006 C-0.0648473 7.86694 -0.0648473 7.44147 0.194542 7.18116 L2.85466 4.4828 L0.194542 1.78444 C-0.0648473 1.52132 -0.0648473 1.09586 0.194542 0.835539 L0.81542 0.197339 C1.07481 -0.0657794 1.49425 -0.0657794 1.75088 0.197339 L5.50374 4.00414 C5.76589 4.26727 5.76589 4.69273 5.5065 4.95586 L5.5065 4.95586 M10.8047 4.00414 L7.0518 0.197339 C6.79241 -0.0657794 6.37297 -0.0657794 6.11634 0.197339 L5.4927 0.829941 C5.23331 1.09306 5.23331 1.51853 5.4927 1.77884 L8.15282 4.4772 L5.4927 7.17556 C5.23331 7.43868 5.23331 7.86414 5.4927 8.12446 L6.11634 8.75706 C6.37573 9.02018 6.79517 9.02018 7.0518 8.75706 L10.8047 4.95025 C11.064 4.69273 11.064 4.26727 10.8047 4.00414 " copath="M5.5065 4.95586 L1.75364 8.76266 C1.49425 9.02578 1.07481 9.02578 0.818179 8.76266 L0.194542 8.13006 C-0.0648473 7.86694 -0.0648473 7.44147 0.194542 7.18116 L2.85466 4.4828 L0.194542 1.78444 C-0.0648473 1.52132 -0.0648473 1.09586 0.194542 0.835539 L0.81542 0.197339 C1.07481 -0.0657794 1.49425 -0.0657794 1.75088 0.197339 L5.50374 4.00414 C5.76589 4.26727 5.76589 4.69273 5.5065 4.95586 L5.5065 4.95586 Z M10.8047 4.00414 L7.0518 0.197339 C6.79241 -0.0657794 6.37297 -0.0657794 6.11634 0.197339 L5.4927 0.829941 C5.23331 1.09306 5.23331 1.51853 5.4927 1.77884 L8.15282 4.4772 L5.4927 7.17556 C5.23331 7.43868 5.23331 7.86414 5.4927 8.12446 L6.11634 8.75706 C6.37573 9.02018 6.79517 9.02018 7.0518 8.75706 L10.8047 4.95025 C11.064 4.69273 11.064 4.26727 10.8047 4.00414 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="8.96000000000026" LAYER="0"/>
+        <FRAMEOBJECT InID="28449" XPOS="0" YPOS="0" OwnPage="-1" ItemID="107099744" PTYPE="7" WIDTH="10.9992" HEIGHT="9.34100000000063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 5.16659 L1.75364 9.13527 C1.49425 9.40958 1.07481 9.40958 0.818179 9.13527 L0.194542 8.47577 C-0.0648473 8.20146 -0.0648473 7.7579 0.194542 7.48652 L2.85466 4.67342 L0.194542 1.86032 C-0.0648473 1.58601 -0.0648473 1.14246 0.194542 0.871068 L0.81542 0.20573 C1.07481 -0.0685765 1.49425 -0.0685765 1.75088 0.20573 L5.50374 4.17441 C5.76589 4.44872 5.76589 4.89228 5.5065 5.16659 L5.5065 5.16659 M10.8047 4.17441 L7.0518 0.20573 C6.79241 -0.0685765 6.37297 -0.0685765 6.11634 0.20573 L5.4927 0.865232 C5.23331 1.13954 5.23331 1.5831 5.4927 1.85448 L8.15282 4.66758 L5.4927 7.48068 C5.23331 7.75499 5.23331 8.19854 5.4927 8.46993 L6.11634 9.12943 C6.37573 9.40374 6.79517 9.40374 7.0518 9.12943 L10.8047 5.16075 C11.064 4.89228 11.064 4.44872 10.8047 4.17441 " copath="M5.5065 5.16659 L1.75364 9.13527 C1.49425 9.40958 1.07481 9.40958 0.818179 9.13527 L0.194542 8.47577 C-0.0648473 8.20146 -0.0648473 7.7579 0.194542 7.48652 L2.85466 4.67342 L0.194542 1.86032 C-0.0648473 1.58601 -0.0648473 1.14246 0.194542 0.871068 L0.81542 0.20573 C1.07481 -0.0685765 1.49425 -0.0685765 1.75088 0.20573 L5.50374 4.17441 C5.76589 4.44872 5.76589 4.89228 5.5065 5.16659 L5.5065 5.16659 Z M10.8047 4.17441 L7.0518 0.20573 C6.79241 -0.0685765 6.37297 -0.0685765 6.11634 0.20573 L5.4927 0.865232 C5.23331 1.13954 5.23331 1.5831 5.4927 1.85448 L8.15282 4.66758 L5.4927 7.48068 C5.23331 7.75499 5.23331 8.19854 5.4927 8.46993 L6.11634 9.12943 C6.37573 9.40374 6.79517 9.40374 7.0518 9.12943 L10.8047 5.16075 C11.064 4.89228 11.064 4.44872 10.8047 4.17441 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="9.34100000000063" LAYER="0"/>
+        <FRAMEOBJECT InID="30253" XPOS="0" YPOS="0" OwnPage="-1" ItemID="106668144" PTYPE="7" WIDTH="10.9992" HEIGHT="7.58100000000018" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.19312 L1.75364 7.41403 C1.49425 7.63666 1.07481 7.63666 0.818179 7.41403 L0.194542 6.87879 C-0.0648473 6.65617 -0.0648473 6.29618 0.194542 6.07593 L2.85466 3.79287 L0.194542 1.5098 C-0.0648473 1.28718 -0.0648473 0.927202 0.194542 0.706944 L0.81542 0.166967 C1.07481 -0.0556555 1.49425 -0.0556555 1.75088 0.166967 L5.50374 3.38788 C5.76589 3.61051 5.76589 3.97049 5.5065 4.19312 L5.5065 4.19312 M10.8047 3.38788 L7.0518 0.166967 C6.79241 -0.0556555 6.37297 -0.0556555 6.11634 0.166967 L5.4927 0.702208 C5.23331 0.924832 5.23331 1.28482 5.4927 1.50507 L8.15282 3.78813 L5.4927 6.0712 C5.23331 6.29382 5.23331 6.6538 5.4927 6.87405 L6.11634 7.40929 C6.37573 7.63192 6.79517 7.63192 7.0518 7.40929 L10.8047 4.18838 C11.064 3.97049 11.064 3.61051 10.8047 3.38788 " copath="M5.5065 4.19312 L1.75364 7.41403 C1.49425 7.63666 1.07481 7.63666 0.818179 7.41403 L0.194542 6.87879 C-0.0648473 6.65617 -0.0648473 6.29618 0.194542 6.07593 L2.85466 3.79287 L0.194542 1.5098 C-0.0648473 1.28718 -0.0648473 0.927202 0.194542 0.706944 L0.81542 0.166967 C1.07481 -0.0556555 1.49425 -0.0556555 1.75088 0.166967 L5.50374 3.38788 C5.76589 3.61051 5.76589 3.97049 5.5065 4.19312 L5.5065 4.19312 Z M10.8047 3.38788 L7.0518 0.166967 C6.79241 -0.0556555 6.37297 -0.0556555 6.11634 0.166967 L5.4927 0.702208 C5.23331 0.924832 5.23331 1.28482 5.4927 1.50507 L8.15282 3.78813 L5.4927 6.0712 C5.23331 6.29382 5.23331 6.6538 5.4927 6.87405 L6.11634 7.40929 C6.37573 7.63192 6.79517 7.63192 7.0518 7.40929 L10.8047 4.18838 C11.064 3.97049 11.064 3.61051 10.8047 3.38788 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="7.58100000000019" LAYER="0"/>
+        <FRAMEOBJECT InID="8156" XPOS="100.0008" YPOS="4180.0176" OwnPage="-1" ItemID="99186576" PTYPE="7" WIDTH="10.9992" HEIGHT="8.58420000000006" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 " copath="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 Z M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="8.58420000000001" LAYER="0"/>
+        <FRAMEOBJECT InID="21779" XPOS="0" YPOS="0" OwnPage="-1" ItemID="107108000" PTYPE="7" WIDTH="10.9992" HEIGHT="8.58420000000006" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 " copath="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 Z M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="8.58420000000001" LAYER="0"/>
+        <FRAMEOBJECT InID="17712" XPOS="200.0016" YPOS="10856.0448" OwnPage="-1" ItemID="107110752" PTYPE="7" WIDTH="10.9992" HEIGHT="9.34100000000063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 5.16659 L1.75364 9.13527 C1.49425 9.40958 1.07481 9.40958 0.818179 9.13527 L0.194542 8.47577 C-0.0648473 8.20146 -0.0648473 7.7579 0.194542 7.48652 L2.85466 4.67342 L0.194542 1.86032 C-0.0648473 1.58601 -0.0648473 1.14246 0.194542 0.871068 L0.81542 0.20573 C1.07481 -0.0685765 1.49425 -0.0685765 1.75088 0.20573 L5.50374 4.17441 C5.76589 4.44872 5.76589 4.89228 5.5065 5.16659 L5.5065 5.16659 M10.8047 4.17441 L7.0518 0.20573 C6.79241 -0.0685765 6.37297 -0.0685765 6.11634 0.20573 L5.4927 0.865232 C5.23331 1.13954 5.23331 1.5831 5.4927 1.85448 L8.15282 4.66758 L5.4927 7.48068 C5.23331 7.75499 5.23331 8.19854 5.4927 8.46993 L6.11634 9.12943 C6.37573 9.40374 6.79517 9.40374 7.0518 9.12943 L10.8047 5.16075 C11.064 4.89228 11.064 4.44872 10.8047 4.17441 " copath="M5.5065 5.16659 L1.75364 9.13527 C1.49425 9.40958 1.07481 9.40958 0.818179 9.13527 L0.194542 8.47577 C-0.0648473 8.20146 -0.0648473 7.7579 0.194542 7.48652 L2.85466 4.67342 L0.194542 1.86032 C-0.0648473 1.58601 -0.0648473 1.14246 0.194542 0.871068 L0.81542 0.20573 C1.07481 -0.0685765 1.49425 -0.0685765 1.75088 0.20573 L5.50374 4.17441 C5.76589 4.44872 5.76589 4.89228 5.5065 5.16659 L5.5065 5.16659 Z M10.8047 4.17441 L7.0518 0.20573 C6.79241 -0.0685765 6.37297 -0.0685765 6.11634 0.20573 L5.4927 0.865232 C5.23331 1.13954 5.23331 1.5831 5.4927 1.85448 L8.15282 4.66758 L5.4927 7.48068 C5.23331 7.75499 5.23331 8.19854 5.4927 8.46993 L6.11634 9.12943 C6.37573 9.40374 6.79517 9.40374 7.0518 9.12943 L10.8047 5.16075 C11.064 4.89228 11.064 4.44872 10.8047 4.17441 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="9.34100000000063" LAYER="0"/>
+        <FRAMEOBJECT InID="17999" XPOS="0" YPOS="0" OwnPage="-1" ItemID="107345408" PTYPE="7" WIDTH="10.9992" HEIGHT="8.96000000000026" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.95586 L1.75364 8.76266 C1.49425 9.02578 1.07481 9.02578 0.818179 8.76266 L0.194542 8.13006 C-0.0648473 7.86694 -0.0648473 7.44147 0.194542 7.18116 L2.85466 4.4828 L0.194542 1.78444 C-0.0648473 1.52132 -0.0648473 1.09586 0.194542 0.835539 L0.81542 0.197339 C1.07481 -0.0657794 1.49425 -0.0657794 1.75088 0.197339 L5.50374 4.00414 C5.76589 4.26727 5.76589 4.69273 5.5065 4.95586 L5.5065 4.95586 M10.8047 4.00414 L7.0518 0.197339 C6.79241 -0.0657794 6.37297 -0.0657794 6.11634 0.197339 L5.4927 0.829941 C5.23331 1.09306 5.23331 1.51853 5.4927 1.77884 L8.15282 4.4772 L5.4927 7.17556 C5.23331 7.43868 5.23331 7.86414 5.4927 8.12446 L6.11634 8.75706 C6.37573 9.02018 6.79517 9.02018 7.0518 8.75706 L10.8047 4.95025 C11.064 4.69273 11.064 4.26727 10.8047 4.00414 " copath="M5.5065 4.95586 L1.75364 8.76266 C1.49425 9.02578 1.07481 9.02578 0.818179 8.76266 L0.194542 8.13006 C-0.0648473 7.86694 -0.0648473 7.44147 0.194542 7.18116 L2.85466 4.4828 L0.194542 1.78444 C-0.0648473 1.52132 -0.0648473 1.09586 0.194542 0.835539 L0.81542 0.197339 C1.07481 -0.0657794 1.49425 -0.0657794 1.75088 0.197339 L5.50374 4.00414 C5.76589 4.26727 5.76589 4.69273 5.5065 4.95586 L5.5065 4.95586 Z M10.8047 4.00414 L7.0518 0.197339 C6.79241 -0.0657794 6.37297 -0.0657794 6.11634 0.197339 L5.4927 0.829941 C5.23331 1.09306 5.23331 1.51853 5.4927 1.77884 L8.15282 4.4772 L5.4927 7.17556 C5.23331 7.43868 5.23331 7.86414 5.4927 8.12446 L6.11634 8.75706 C6.37573 9.02018 6.79517 9.02018 7.0518 8.75706 L10.8047 4.95025 C11.064 4.69273 11.064 4.26727 10.8047 4.00414 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="8.96000000000026" LAYER="0"/>
+        <FRAMEOBJECT InID="8217" XPOS="100.0008" YPOS="4180.0176" OwnPage="-1" ItemID="106672944" PTYPE="7" WIDTH="10.9992" HEIGHT="8.58420000000006" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 " copath="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 Z M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="8.58420000000001" LAYER="0"/>
+        <FRAMEOBJECT InID="9305" XPOS="100.0008" YPOS="4180.0176" OwnPage="-1" ItemID="106678448" PTYPE="7" WIDTH="10.9992" HEIGHT="8.58420000000006" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 " copath="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 Z M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="8.58420000000001" LAYER="0"/>
+        <FRAMEOBJECT InID="23987" XPOS="100.0008" YPOS="5844.024" OwnPage="-1" ItemID="107102496" PTYPE="7" WIDTH="10.9992" HEIGHT="10.581" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 5.85245 L1.75364 10.348 C1.49425 10.6587 1.07481 10.6587 0.818179 10.348 L0.194542 9.60091 C-0.0648473 9.29019 -0.0648473 8.78775 0.194542 8.48034 L2.85466 5.29381 L0.194542 2.10727 C-0.0648473 1.79655 -0.0648473 1.29412 0.194542 0.986701 L0.81542 0.23304 C1.07481 -0.0776799 1.49425 -0.0776799 1.75088 0.23304 L5.50374 4.72855 C5.76589 5.03928 5.76589 5.54172 5.5065 5.85245 L5.5065 5.85245 M10.8047 4.72855 L7.0518 0.23304 C6.79241 -0.0776799 6.37297 -0.0776799 6.11634 0.23304 L5.4927 0.98009 C5.23331 1.29081 5.23331 1.79325 5.4927 2.10066 L8.15282 5.28719 L5.4927 8.47373 C5.23331 8.78445 5.23331 9.28688 5.4927 9.5943 L6.11634 10.3413 C6.37573 10.6521 6.79517 10.6521 7.0518 10.3413 L10.8047 5.84583 C11.064 5.54172 11.064 5.03928 10.8047 4.72855 " copath="M5.5065 5.85245 L1.75364 10.348 C1.49425 10.6587 1.07481 10.6587 0.818179 10.348 L0.194542 9.60091 C-0.0648473 9.29019 -0.0648473 8.78775 0.194542 8.48034 L2.85466 5.29381 L0.194542 2.10727 C-0.0648473 1.79655 -0.0648473 1.29412 0.194542 0.986701 L0.81542 0.23304 C1.07481 -0.0776799 1.49425 -0.0776799 1.75088 0.23304 L5.50374 4.72855 C5.76589 5.03928 5.76589 5.54172 5.5065 5.85245 L5.5065 5.85245 Z M10.8047 4.72855 L7.0518 0.23304 C6.79241 -0.0776799 6.37297 -0.0776799 6.11634 0.23304 L5.4927 0.98009 C5.23331 1.29081 5.23331 1.79325 5.4927 2.10066 L8.15282 5.28719 L5.4927 8.47373 C5.23331 8.78445 5.23331 9.28688 5.4927 9.5943 L6.11634 10.3413 C6.37573 10.6521 6.79517 10.6521 7.0518 10.3413 L10.8047 5.84583 C11.064 5.54172 11.064 5.03928 10.8047 4.72855 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="10.581" LAYER="0"/>
+        <FRAMEOBJECT InID="13087" XPOS="0" YPOS="0" OwnPage="-1" ItemID="104070208" PTYPE="7" WIDTH="10.9992" HEIGHT="9.34100000000063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 5.16659 L1.75364 9.13527 C1.49425 9.40958 1.07481 9.40958 0.818179 9.13527 L0.194542 8.47577 C-0.0648473 8.20146 -0.0648473 7.7579 0.194542 7.48652 L2.85466 4.67342 L0.194542 1.86032 C-0.0648473 1.58601 -0.0648473 1.14246 0.194542 0.871068 L0.81542 0.20573 C1.07481 -0.0685765 1.49425 -0.0685765 1.75088 0.20573 L5.50374 4.17441 C5.76589 4.44872 5.76589 4.89228 5.5065 5.16659 L5.5065 5.16659 M10.8047 4.17441 L7.0518 0.20573 C6.79241 -0.0685765 6.37297 -0.0685765 6.11634 0.20573 L5.4927 0.865232 C5.23331 1.13954 5.23331 1.5831 5.4927 1.85448 L8.15282 4.66758 L5.4927 7.48068 C5.23331 7.75499 5.23331 8.19854 5.4927 8.46993 L6.11634 9.12943 C6.37573 9.40374 6.79517 9.40374 7.0518 9.12943 L10.8047 5.16075 C11.064 4.89228 11.064 4.44872 10.8047 4.17441 " copath="M5.5065 5.16659 L1.75364 9.13527 C1.49425 9.40958 1.07481 9.40958 0.818179 9.13527 L0.194542 8.47577 C-0.0648473 8.20146 -0.0648473 7.7579 0.194542 7.48652 L2.85466 4.67342 L0.194542 1.86032 C-0.0648473 1.58601 -0.0648473 1.14246 0.194542 0.871068 L0.81542 0.20573 C1.07481 -0.0685765 1.49425 -0.0685765 1.75088 0.20573 L5.50374 4.17441 C5.76589 4.44872 5.76589 4.89228 5.5065 5.16659 L5.5065 5.16659 Z M10.8047 4.17441 L7.0518 0.20573 C6.79241 -0.0685765 6.37297 -0.0685765 6.11634 0.20573 L5.4927 0.865232 C5.23331 1.13954 5.23331 1.5831 5.4927 1.85448 L8.15282 4.66758 L5.4927 7.48068 C5.23331 7.75499 5.23331 8.19854 5.4927 8.46993 L6.11634 9.12943 C6.37573 9.40374 6.79517 9.40374 7.0518 9.12943 L10.8047 5.16075 C11.064 4.89228 11.064 4.44872 10.8047 4.17441 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="9.34100000000063" LAYER="0"/>
+        <FRAMEOBJECT InID="27310" XPOS="0" YPOS="0" OwnPage="-1" ItemID="107148880" PTYPE="7" WIDTH="10.9992" HEIGHT="8.58420000000006" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 " copath="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 Z M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="8.58420000000001" LAYER="0"/>
+        <FRAMEOBJECT InID="6044" XPOS="0" YPOS="0" OwnPage="-1" ItemID="107159824" PTYPE="7" WIDTH="10.9992" HEIGHT="8.58420000000006" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 " copath="M5.5065 4.748 L1.75364 8.39514 C1.49425 8.64722 1.07481 8.64722 0.818179 8.39514 L0.194542 7.78907 C-0.0648473 7.53698 -0.0648473 7.12936 0.194542 6.87997 L2.85466 4.29478 L0.194542 1.7096 C-0.0648473 1.45751 -0.0648473 1.0499 0.194542 0.800495 L0.81542 0.189062 C1.07481 -0.0630205 1.49425 -0.0630205 1.75088 0.189062 L5.50374 3.8362 C5.76589 4.08829 5.76589 4.49591 5.5065 4.748 L5.5065 4.748 Z M10.8047 3.8362 L7.0518 0.189062 C6.79241 -0.0630205 6.37297 -0.0630205 6.11634 0.189062 L5.4927 0.795132 C5.23331 1.04722 5.23331 1.45484 5.4927 1.70423 L8.15282 4.28942 L5.4927 6.8746 C5.23331 7.12669 5.23331 7.5343 5.4927 7.7837 L6.11634 8.38977 C6.37573 8.64186 6.79517 8.64186 7.0518 8.38977 L10.8047 4.74263 C11.064 4.49591 11.064 4.08829 10.8047 3.8362 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="8.58420000000001" LAYER="0"/>
+        <FRAMEOBJECT InID="23400" XPOS="0" YPOS="0" OwnPage="-1" ItemID="106675696" PTYPE="7" WIDTH="10.9992" HEIGHT="9.34100000000063" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 5.16659 L1.75364 9.13527 C1.49425 9.40958 1.07481 9.40958 0.818179 9.13527 L0.194542 8.47577 C-0.0648473 8.20146 -0.0648473 7.7579 0.194542 7.48652 L2.85466 4.67342 L0.194542 1.86032 C-0.0648473 1.58601 -0.0648473 1.14246 0.194542 0.871068 L0.81542 0.20573 C1.07481 -0.0685765 1.49425 -0.0685765 1.75088 0.20573 L5.50374 4.17441 C5.76589 4.44872 5.76589 4.89228 5.5065 5.16659 L5.5065 5.16659 M10.8047 4.17441 L7.0518 0.20573 C6.79241 -0.0685765 6.37297 -0.0685765 6.11634 0.20573 L5.4927 0.865232 C5.23331 1.13954 5.23331 1.5831 5.4927 1.85448 L8.15282 4.66758 L5.4927 7.48068 C5.23331 7.75499 5.23331 8.19854 5.4927 8.46993 L6.11634 9.12943 C6.37573 9.40374 6.79517 9.40374 7.0518 9.12943 L10.8047 5.16075 C11.064 4.89228 11.064 4.44872 10.8047 4.17441 " copath="M5.5065 5.16659 L1.75364 9.13527 C1.49425 9.40958 1.07481 9.40958 0.818179 9.13527 L0.194542 8.47577 C-0.0648473 8.20146 -0.0648473 7.7579 0.194542 7.48652 L2.85466 4.67342 L0.194542 1.86032 C-0.0648473 1.58601 -0.0648473 1.14246 0.194542 0.871068 L0.81542 0.20573 C1.07481 -0.0685765 1.49425 -0.0685765 1.75088 0.20573 L5.50374 4.17441 C5.76589 4.44872 5.76589 4.89228 5.5065 5.16659 L5.5065 5.16659 Z M10.8047 4.17441 L7.0518 0.20573 C6.79241 -0.0685765 6.37297 -0.0685765 6.11634 0.20573 L5.4927 0.865232 C5.23331 1.13954 5.23331 1.5831 5.4927 1.85448 L8.15282 4.66758 L5.4927 7.48068 C5.23331 7.75499 5.23331 8.19854 5.4927 8.46993 L6.11634 9.12943 C6.37573 9.40374 6.79517 9.40374 7.0518 9.12943 L10.8047 5.16075 C11.064 4.89228 11.064 4.44872 10.8047 4.17441 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="9.34100000000063" LAYER="0"/>
+        <FRAMEOBJECT InID="29926" XPOS="0" YPOS="0" OwnPage="-1" ItemID="107413696" PTYPE="7" WIDTH="10.9992" HEIGHT="10.581" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 5.85245 L1.75364 10.348 C1.49425 10.6587 1.07481 10.6587 0.818179 10.348 L0.194542 9.60091 C-0.0648473 9.29019 -0.0648473 8.78775 0.194542 8.48034 L2.85466 5.29381 L0.194542 2.10727 C-0.0648473 1.79655 -0.0648473 1.29412 0.194542 0.986701 L0.81542 0.23304 C1.07481 -0.0776799 1.49425 -0.0776799 1.75088 0.23304 L5.50374 4.72855 C5.76589 5.03928 5.76589 5.54172 5.5065 5.85245 L5.5065 5.85245 M10.8047 4.72855 L7.0518 0.23304 C6.79241 -0.0776799 6.37297 -0.0776799 6.11634 0.23304 L5.4927 0.98009 C5.23331 1.29081 5.23331 1.79325 5.4927 2.10066 L8.15282 5.28719 L5.4927 8.47373 C5.23331 8.78445 5.23331 9.28688 5.4927 9.5943 L6.11634 10.3413 C6.37573 10.6521 6.79517 10.6521 7.0518 10.3413 L10.8047 5.84583 C11.064 5.54172 11.064 5.03928 10.8047 4.72855 " copath="M5.5065 5.85245 L1.75364 10.348 C1.49425 10.6587 1.07481 10.6587 0.818179 10.348 L0.194542 9.60091 C-0.0648473 9.29019 -0.0648473 8.78775 0.194542 8.48034 L2.85466 5.29381 L0.194542 2.10727 C-0.0648473 1.79655 -0.0648473 1.29412 0.194542 0.986701 L0.81542 0.23304 C1.07481 -0.0776799 1.49425 -0.0776799 1.75088 0.23304 L5.50374 4.72855 C5.76589 5.03928 5.76589 5.54172 5.5065 5.85245 L5.5065 5.85245 Z M10.8047 4.72855 L7.0518 0.23304 C6.79241 -0.0776799 6.37297 -0.0776799 6.11634 0.23304 L5.4927 0.98009 C5.23331 1.29081 5.23331 1.79325 5.4927 2.10066 L8.15282 5.28719 L5.4927 8.47373 C5.23331 8.78445 5.23331 9.28688 5.4927 9.5943 L6.11634 10.3413 C6.37573 10.6521 6.79517 10.6521 7.0518 10.3413 L10.8047 5.84583 C11.064 5.54172 11.064 5.03928 10.8047 4.72855 Z" isInline="1" fillRule="0" gXpos="0" gYpos="0" gWidth="10.9992" gHeight="10.581" LAYER="0"/>
+        <PAGEOBJECT XPOS="198.1" YPOS="4208.8" OwnPage="5" ItemID="107514736" PTYPE="4" WIDTH="415.8" HEIGHT="233.582400000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="RequestingTest" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 233.582 L0 233.582 L0 0 Z" copath="M0 0 L415.8 0 L415.8 233.582 L0 233.582 L0 0 Z" gXpos="198.1" gYpos="1712.7904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CH="Requesting a test from a proctor"/>
+                <para PARENT="Topic header"/>
+                <ITEXT CH="To take a test, you must first request it from an approved proctor."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" To request a test "/>
+                <para PARENT="Procedure header"/>
+                <ITEXT CPARENT="Bold" CH="1. "/>
+                <ITEXT CH="From the main window, select the Distance Tests tab."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="18444"/>
+                <ITEXT CPARENT="Action result" CH=" The Distance Tests page appears."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="2."/>
+                <ITEXT CH=" From the My Proctors tab, select your proctor's name."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="17712"/>
+                <ITEXT CPARENT="Action result" CH=" The Proctor Information window appears."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Requesting a test from a proctor" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.8" YPOS="48.8" OwnPage="0" ItemID="107812432" PTYPE="6" WIDTH="554.4" HEIGHT="733.9" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="blue.Primary" PLINEART="1" path="M0 0 L554.4 0 L554.4 733.9 L0 733.9 L0 0 Z" copath="M0 0 L554.4 0 L554.4 733.9 L0 733.9 L0 0 Z" gXpos="128.8" gYpos="48.8" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="128.8" YPOS="293.6" OwnPage="0" ItemID="107815184" PTYPE="4" WIDTH="554.4" HEIGHT="122.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L554.4 0 L554.4 122.4 L0 122.4 L0 0 Z" copath="M0 0 L554.4 0 L554.4 122.4 L0 122.4 L0 0 Z" gXpos="128.8" gYpos="293.6" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" FONT="IBM Plex Serif Bold" FONTSIZE="28" FCOLOR="blue.Primary"/>
+                <ITEXT FONT="IBM Plex Serif Bold" FONTSIZE="28" FCOLOR="blue.Primary" CH="Chi Tester User Guide"/>
+                <trail ALIGN="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="267.4" YPOS="719.398" OwnPage="0" ItemID="107331808" PTYPE="4" WIDTH="277.2" HEIGHT="63.802" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L277.2 0 L277.2 63.802 L0 63.802 L0 0 Z" copath="M0 0 L277.2 0 L277.2 63.802 L0 63.802 L0 0 Z" gXpos="267.4" gYpos="719.398" gWidth="0" gHeight="0" ALIGN="1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle ALIGN="1" LINESPMode="1" FONT="IBM Plex Serif Medium" FCOLOR="White"/>
+                <ITEXT FONT="IBM Plex Serif Medium" FCOLOR="White" CH="Kyle Rollins and Amy Higgs"/>
+                <para ALIGN="1" LINESPMode="1"/>
+                <para ALIGN="1" LINESPMode="1"/>
+                <ITEXT FONT="IBM Plex Serif Medium" FCOLOR="White" CH="Weber State University "/>
+                <para ALIGN="1" LINESPMode="1"/>
+                <ITEXT FONT="IBM Plex Serif Medium" FCOLOR="White" CH="3848 Harrson Blvd, Ogden"/>
+                <trail ALIGN="1" LINESPMode="1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="755.2" YPOS="205.6" OwnPage="-1" ItemID="107334656" PTYPE="4" WIDTH="152" HEIGHT="64.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L152 0 L152 64.8 L0 64.8 L0 0 Z" copath="M0 0 L152 0 L152 64.8 L0 64.8 L0 0 Z" gXpos="755.2" gYpos="205.6" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="http://paletton.com/#uid=73R1P0kleqtbzEKgVuIpcmGtdhZ"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="1712.8" OwnPage="2" ItemID="107337504" PTYPE="4" WIDTH="415.8" HEIGHT="244.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Proctor1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 244.8 L0 244.8 L0 0 Z" copath="M0 0 L415.8 0 L415.8 244.8 L0 244.8 L0 0 Z" gXpos="198.1" gYpos="1712.8" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CH="Setting up a proctor"/>
+                <para PARENT="Topic header"/>
+                <ITEXT CH="After logging in to Chi Tester, follow the steps below to set up a proctor. "/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" To set up a proctor "/>
+                <para PARENT="Procedure header"/>
+                <ITEXT CPARENT="Bold" CH="1. "/>
+                <ITEXT CH="From the main window, select the Distance Tests tab."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="11017"/>
+                <ITEXT CPARENT="Action result" CH=" The Distance Tests page appears."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="2."/>
+                <ITEXT CH=" Near the bottom of the page, select the Set Up a Proctor button."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="17999"/>
+                <ITEXT CPARENT="Action result" CH=" The Find a Proctor window appears."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Setting up a proctor" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="278.9" YPOS="1957.6" OwnPage="2" ItemID="107340352" PTYPE="4" WIDTH="254.2" HEIGHT="77" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="yellow.Light" SHADE="60" PLINEART="1" ANNAME="Note_Frame" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="14.4" BEXTRA="14.4" REXTRA="7.2" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L254.2 0 L254.2 77 L0 77 L0 0 Z" copath="M0 0 L254.2 0 L254.2 77 L0 77 L0 0 Z" gXpos="278.9" gYpos="1957.6" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="13"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="13" CH="Note: "/>
+                <ITEXT FONTSIZE="13" CH="The &quot;click here&quot; hypertext will link you to an example of a proctor submission form."/>
+                <trail PARENT="Note"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="2034.6" OwnPage="2" ItemID="107517584" PTYPE="4" WIDTH="415.8" HEIGHT="185.600000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Proctor2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 185.6 L0 185.6 L0 0 Z" copath="M0 0 L415.8 0 L415.8 185.6 L0 185.6 L0 0 Z" gXpos="198.1" gYpos="2034.6" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CPARENT="Bold" CH="3. "/>
+                <ITEXT CH="Read the instructions, check the box to confirm you have read the provided statement, then select Next."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="29926"/>
+                <ITEXT CPARENT="Action result" CH=" The Proctor Search window appears."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="4."/>
+                <ITEXT CH=" Read the instructions, then select the option that best suits your needs."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="14" CH="• Search Existing Proctors button."/>
+                <ITEXT CPARENT="Bold" CH=" "/>
+                <ITEXT CH="Find an approved proctor you already know."/>
+                <para PARENT="OL smaller" LINESP="15"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="14" CH="• Create New Proctor button."/>
+                <ITEXT CPARENT="Bold" CH=" "/>
+                <ITEXT CH="Add a new proctor to the system."/>
+                <trail PARENT="OL smaller" LINESP="15"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="278.9" YPOS="2220.2" OwnPage="2" ItemID="107312704" PTYPE="4" WIDTH="254.2" HEIGHT="74.4000000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="yellow.Light" SHADE="60" PLINEART="1" ANNAME="Note_Frame1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="14.4" BEXTRA="14.4" REXTRA="7.2" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L254.2 0 L254.2 74.4 L0 74.4 L0 0 Z" copath="M0 0 L254.2 0 L254.2 74.4 L0 74.4 L0 0 Z" gXpos="278.9" gYpos="2220.2" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="13"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="13" CH="Note: "/>
+                <ITEXT FONTSIZE="13" CH="The &quot;here&quot; hypertext opens a map of approved proctors from all over the world."/>
+                <trail PARENT="Note"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="128.8" YPOS="908.3952" OwnPage="1" ItemID="107536784" PTYPE="4" WIDTH="108.4444" HEIGHT="27.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L108.444 0 L108.444 27.6 L0 27.6 L0 0 Z" copath="M0 0 L108.444 0 L108.444 27.6 L0 27.6 L0 0 Z" gXpos="128.8" gYpos="1740.3984" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle LINESPMode="0" LINESP="23" FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="grey.Black"/>
+                <ITEXT FCOLOR="grey.Black" CH="Contents"/>
+                <para PARENT="Topic header" LINESPMode="0" LINESP="23"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Setting up a proctor" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="2544.8" OwnPage="3" ItemID="108637216" PTYPE="4" WIDTH="415.8" HEIGHT="357.588800000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="FindingProctor1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 357.589 L0 357.589 L0 0 Z" copath="M0 0 L415.8 0 L415.8 357.589 L0 357.589 L0 0 Z" gXpos="198.1" gYpos="1712.7968" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CH="Finding an approved proctor by location"/>
+                <para PARENT="Topic header"/>
+                <ITEXT CH="The map tool allows you to find approved proctors in geographic areas."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" To find a proctor on the map "/>
+                <para PARENT="Procedure header"/>
+                <ITEXT CPARENT="Bold" CH="1. "/>
+                <ITEXT CH="Navigate to the location you want to search in."/>
+                <para PARENT="OL"/>
+                <ITEXT CH="The map functions like Google Maps. Zoom and satellite/street view functions assist your search."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="2."/>
+                <ITEXT CH=" On the map, click the red marker closest to your location."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="26392"/>
+                <ITEXT CPARENT="Action result" CH=" The proctor information window appears."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="3."/>
+                <ITEXT CH=" Click Use this proctor."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="4."/>
+                <ITEXT CH=" Follow the steps in Create a New Proctor (found below) to fill out and submit the proctor approval form."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Finding an approved proctor" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="2902.3888" OwnPage="3" ItemID="107539632" PTYPE="4" WIDTH="415.8" HEIGHT="288" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="SearchingProctor1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 288 L0 288 L0 0 Z" copath="M0 0 L415.8 0 L415.8 288 L0 288 L0 0 Z" gXpos="198.1" gYpos="2070.3856" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CH="Searching for proctors"/>
+                <para PARENT="Topic header"/>
+                <ITEXT CH="If you know a proctor in your area, or the name of a proctor, you can search for them using these steps."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" To search for a proctor "/>
+                <para PARENT="Procedure header"/>
+                <ITEXT CPARENT="Bold" CH="1. "/>
+                <ITEXT CH="In the Proctor ZIP or Last Name box, enter a proctor’s ZIP code or last name, then click Search Existing Proctors."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="21779"/>
+                <ITEXT CPARENT="Action result" CH=" A list of matches appreas in the proctor table. "/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="2. "/>
+                <ITEXT CH="Select a proctor from the list of search results."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="3. "/>
+                <ITEXT CH="Follow the steps in Create a New Proctor (found below) to fill out and submit the proctor approval form."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Searching for proctors" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="3376.8" OwnPage="4" ItemID="107542480" PTYPE="4" WIDTH="415.8" HEIGHT="367.2" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="CreatingProctor1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 367.2 L0 367.2 L0 0 Z" copath="M0 0 L415.8 0 L415.8 367.2 L0 367.2 L0 0 Z" gXpos="198.1" gYpos="1712.7936" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CH="Creating new proctors"/>
+                <para PARENT="Topic header"/>
+                <ITEXT CH="You can create new proctors. These steps guide you through the Proctor Approval Form Builder."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" To create a new proctor "/>
+                <para PARENT="Procedure header"/>
+                <ITEXT CPARENT="Bold" CH="1. "/>
+                <ITEXT CH="On the Proctor Search Window, select Create New Proctor."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="8217"/>
+                <ITEXT CPARENT="Action result" CH=" The Proctor Approval Form Builder appears. "/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="2."/>
+                <ITEXT CH=" Fill out the form, then select Print Form/Submit."/>
+                <para PARENT="OL"/>
+                <ITEXT Unicode="25" COBJ="9305"/>
+                <ITEXT CPARENT="Action result" CH=" Chi Tester automatically creates an official form using the information you provided."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="3."/>
+                <ITEXT CH=" Print the form, then "/>
+                <ITEXT FCOLOR="red.Dark" CH="you and your proctor must sign it"/>
+                <ITEXT CH="."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="4."/>
+                <ITEXT CH=" Fax the form to Weber State University (1-801-999-9999), then click Next."/>
+                <para PARENT="OL"/>
+                <ITEXT Unicode="25" COBJ="8156"/>
+                <ITEXT CPARENT="Action result" CH=" The Approval Information window appears."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Creating new proctors" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="278.9" YPOS="3744" OwnPage="4" ItemID="107545328" PTYPE="4" WIDTH="254.2" HEIGHT="60.5999999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="yellow.Light" SHADE="60" PLINEART="1" ANNAME="Note_Frame3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="14.4" BEXTRA="14.4" REXTRA="7.2" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L254.2 0 L254.2 60.6 L0 60.6 L0 0 Z" copath="M0 0 L254.2 0 L254.2 60.6 L0 60.6 L0 0 Z" gXpos="278.9" gYpos="2079.9936" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="13"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="13" CH="Note: "/>
+                <ITEXT FONTSIZE="13" CH="If your proctor is approved, you will receive an email within 3 days."/>
+                <trail PARENT="Note"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="3804.6" OwnPage="4" ItemID="107315552" PTYPE="4" WIDTH="415.8" HEIGHT="45.7856000000015" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="CreatingProctor2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 45.7856 L0 45.7856 L0 0 Z" copath="M0 0 L415.8 0 L415.8 45.7856 L0 45.7856 L0 0 Z" gXpos="198.1" gYpos="1308.5904" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CPARENT="Bold" CH="5. "/>
+                <ITEXT CH="Read the proctor approval information, then select Finish."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Setting up a proctor" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="278.9" YPOS="4442.3824" OwnPage="5" ItemID="107318400" PTYPE="4" WIDTH="254.2" HEIGHT="93" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="yellow.Light" SHADE="60" PLINEART="1" ANNAME="Note_Frame4" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="14.4" BEXTRA="14.4" REXTRA="7.2" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L254.2 0 L254.2 93 L0 93 L0 0 Z" copath="M0 0 L254.2 0 L254.2 93 L0 93 L0 0 Z" gXpos="278.9" gYpos="1946.3728" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="13"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="13" CH="Note: "/>
+                <ITEXT FONTSIZE="13" CH="The proctor's status will say Approved if the proctor has been approved. Use the proctor's phone number to coordinate tests."/>
+                <trail PARENT="Note"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="4535.3824" OwnPage="5" ItemID="107321248" PTYPE="4" WIDTH="415.8" HEIGHT="72.6000000000004" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="RequestingTest2" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 72.6 L0 72.6 L0 0 Z" copath="M0 0 L415.8 0 L415.8 72.6 L0 72.6 L0 0 Z" gXpos="198.1" gYpos="2039.3728" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CPARENT="Bold" CH="3."/>
+                <ITEXT CH=" From the list of buttons, select Request Tests For This Proctor."/>
+                <para PARENT="OL"/>
+                <ITEXT Unicode="25" COBJ="6044"/>
+                <ITEXT CPARENT="Action result" CH=" The Test Request window appears."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Setting up a proctor" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="278.9" YPOS="4607.9824" OwnPage="5" ItemID="107324096" PTYPE="4" WIDTH="254.2" HEIGHT="126" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="yellow.Light" SHADE="60" PLINEART="1" ANNAME="Note_Frame5" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="14.4" BEXTRA="14.4" REXTRA="7.2" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L254.2 0 L254.2 126 L0 126 L0 0 Z" copath="M0 0 L254.2 0 L254.2 126 L0 126 L0 0 Z" gXpos="278.9" gYpos="2111.9728" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="13"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="13" CH="Note: "/>
+                <ITEXT FONTSIZE="13" CH="The Comments box will inform you of any problems. (Ex: proctor not approved.)"/>
+                <para PARENT="Note"/>
+                <para PARENT="Note"/>
+                <ITEXT FONTSIZE="13" CH="Also, the View Request button allows you to see all exams you have requested."/>
+                <trail PARENT="Note"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="5040.8" OwnPage="6" ItemID="110622544" PTYPE="4" WIDTH="415.8" HEIGHT="75.1792000000014" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="RequestingTest3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 75.1792 L0 75.1792 L0 0 Z" copath="M0 0 L415.8 0 L415.8 75.1792 L0 75.1792 L0 0 Z" gXpos="198.1" gYpos="1712.7872" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CH=" To request a test , continued... "/>
+                <para PARENT="Procedure header"/>
+                <ITEXT CPARENT="Bold" CH="5. "/>
+                <ITEXT CH="Ensure your requested test appears in the list, then click Done."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Setting up a proctor" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="278.9" YPOS="5115.9792" OwnPage="6" ItemID="110625504" PTYPE="4" WIDTH="254.2" HEIGHT="58.32" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="yellow.Light" SHADE="60" PLINEART="1" ANNAME="Note_Frame6" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="14.4" BEXTRA="14.4" REXTRA="7.2" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L254.2 0 L254.2 58.32 L0 58.32 L0 0 Z" copath="M0 0 L254.2 0 L254.2 58.32 L0 58.32 L0 0 Z" gXpos="278.9" gYpos="2619.9696" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="13"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="13" CH="Note: "/>
+                <ITEXT FONTSIZE="13" CH="If your test is not listed, please refer to troubleshooting."/>
+                <trail PARENT="Note"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="5174.2992" OwnPage="6" ItemID="110628464" PTYPE="4" WIDTH="415.8" HEIGHT="323" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="TakingTest" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 323 L0 323 L0 0 Z" copath="M0 0 L415.8 0 L415.8 323 L0 323 L0 0 Z" gXpos="198.1" gYpos="1846.2864" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CH="Taking a test"/>
+                <para PARENT="Topic header"/>
+                <ITEXT CH="After logging into Chi Tester, follow the steps below to take your Test. "/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" To take a test "/>
+                <para PARENT="Procedure header"/>
+                <ITEXT CPARENT="Bold" CH="1. "/>
+                <ITEXT CH="From the main window, select the Testing tab."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="18444"/>
+                <ITEXT CPARENT="Action result" CH=" The Testing page appears."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="2."/>
+                <ITEXT CH=" Search for and select your test, then click Take this test."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="17712"/>
+                <ITEXT CPARENT="Action result" CH=" The Confirm Test window appears."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="3."/>
+                <ITEXT CH=" Have your proctor enter the test password, then click Begin Test."/>
+                <para PARENT="OL"/>
+                <ITEXT Unicode="25" COBJ="23987"/>
+                <ITEXT CPARENT="Action result" CH=" Your test begins."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Taking a test" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="5497.2992" OwnPage="6" ItemID="110631424" PTYPE="4" WIDTH="415.8" HEIGHT="183.976000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="ReviewingTest" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 183.976 L0 183.976 L0 0 Z" copath="M0 0 L415.8 0 L415.8 183.976 L0 183.976 L0 0 Z" gXpos="198.1" gYpos="1337.2832" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CH="Reviewing a test"/>
+                <para PARENT="Topic header"/>
+                <ITEXT CH="Reviewing your test allows you to see which answers you answered incorrectly. "/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" To review a test "/>
+                <para PARENT="Procedure header"/>
+                <ITEXT CPARENT="Bold" CH="1. "/>
+                <ITEXT CH="After completing your test, the Test Complete window appears. Select Review this test."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH=" "/>
+                <ITEXT Unicode="25" COBJ="18444"/>
+                <ITEXT CPARENT="Action result" CH=" The Confirm Test window appears."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Reviewing a test" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="278.9" YPOS="5681.2752" OwnPage="6" ItemID="110634384" PTYPE="4" WIDTH="254.2" HEIGHT="58.4239999999982" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="yellow.Light" SHADE="60" PLINEART="1" ANNAME="Note_Frame7" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="7.2" TEXTRA="14.4" BEXTRA="14.4" REXTRA="7.2" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L254.2 0 L254.2 58.424 L0 58.424 L0 0 Z" copath="M0 0 L254.2 0 L254.2 58.424 L0 58.424 L0 0 Z" gXpos="278.9" gYpos="2353.2624" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONTSIZE="13"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="13" CH="Note: "/>
+                <ITEXT FONTSIZE="13" CH="Review this test only appears if your instructor has enabled reviewing."/>
+                <trail PARENT="Note"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="5739.6992" OwnPage="6" ItemID="110637344" PTYPE="4" WIDTH="415.8" HEIGHT="48.2800000000007" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Copy of ReviewingTest" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 48.28 L0 48.28 L0 0 Z" copath="M0 0 L415.8 0 L415.8 48.28 L0 48.28 L0 0 Z" gXpos="198.1" gYpos="1579.6832" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CPARENT="Bold" CH="2. "/>
+                <ITEXT CH="Have your proctor type the same password used to begin your test, then select Review this test."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="5872.8" OwnPage="7" ItemID="110640304" PTYPE="4" WIDTH="415.8" HEIGHT="734.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Copy of ReviewingTest (2)" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 734.4 L0 734.4 L0 0 Z" copath="M0 0 L415.8 0 L415.8 734.4 L0 734.4 L0 0 Z" gXpos="198.1" gYpos="880.7808" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CH="Frequently asked questions"/>
+                <para PARENT="Topic header"/>
+                <ITEXT CH="The following section illustrates frequently asked questions concerning the processes discussed in this document."/>
+                <para PARENT="Body"/>
+                <para PARENT="Body"/>
+                <ITEXT CPARENT="Bold" CH="1. "/>
+                <ITEXT CH="What do I do if the proctor’s test code does not work?"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH="Your proctor has been given instructions to fix this complication."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="2. "/>
+                <ITEXT CH="The comment box says my test is no longer available. What do I do?"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH="Contact your professor as soon as possible."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="3. "/>
+                <ITEXT CH="My proctor did not show up for my exam. What do I do?"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH="Your proctor should have provided you with contact information. Inform your professor immediately if this problem occurs."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="4. "/>
+                <ITEXT CH="How long will it take for my proctor to be approved?"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH="An email should be sent to you within three days of proctor request."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="5. "/>
+                <ITEXT CH="Who do I contact for problems with Chi Tester?"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH="Chi Tester Support can help you resolve issues."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" FONT="Roboto Medium Italic" CH="Phone:"/>
+                <ITEXT CPARENT="Action result" CH=" (801) 999-9999"/>
+                <breakline/>
+                <ITEXT CPARENT="Action result" FONT="Roboto Medium Italic" CH="Email:"/>
+                <ITEXT CPARENT="Action result" CH=" [email]@weber.edu"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Bold" CH="6. "/>
+                <ITEXT CH="Who do I contact for problems regarding proctor setup?"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH="Proctor Support should be your first stop for help."/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" FONT="Roboto Medium Italic" CH="Phone:"/>
+                <ITEXT CPARENT="Action result" CH=" (801) 999-9999"/>
+                <breakline/>
+                <ITEXT CPARENT="Action result" FONT="Roboto Medium Italic" CH="Email:"/>
+                <ITEXT CPARENT="Action result" CH=" [email]@weber.edu"/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Frequently asked questions" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="198.1" YPOS="6704.8" OwnPage="8" ItemID="110643264" PTYPE="4" WIDTH="415.8" HEIGHT="734.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Copy of ReviewingTest (3)" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 734.4 L0 734.4 L0 0 Z" copath="M0 0 L415.8 0 L415.8 734.4 L0 734.4 L0 0 Z" gXpos="198.1" gYpos="880.7776" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CH="Other helpful information"/>
+                <para PARENT="Topic header"/>
+                <ITEXT CH="This section will provide you with further information on the topics discussed in this document."/>
+                <para PARENT="Body"/>
+                <para PARENT="Body"/>
+                <ITEXT CH="• Contact information for problems with Chi Tester/Proctor Setup"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH="  Chi Tester Support"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" FONT="Roboto Medium Italic" CH="  Phone:"/>
+                <ITEXT CPARENT="Action result" CH=" (801) 999-9999"/>
+                <breakline/>
+                <ITEXT CPARENT="Action result" FONT="Roboto Medium Italic" CH="  Email:"/>
+                <ITEXT CPARENT="Action result" CH=" [email]@weber.edu"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH="  Proctor support"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" FONT="Roboto Medium Italic" CH="  Phone:"/>
+                <ITEXT CPARENT="Action result" CH=" (801) 999-9999"/>
+                <breakline/>
+                <ITEXT CPARENT="Action result" FONT="Roboto Medium Italic" CH="  Email:"/>
+                <ITEXT CPARENT="Action result" CH=" [email]@weber.edu"/>
+                <para PARENT="OL"/>
+                <ITEXT CH="• Websites with further instruction on Chi Tester"/>
+                <para PARENT="OL"/>
+                <ITEXT CPARENT="Action result" CH="  http://departments.weber.edu/ce/distancelearning/testing.aspx."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Other helpful information" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="761.8008" YPOS="289.64" OwnPage="-1" ItemID="112310112" PTYPE="7" WIDTH="10.9992" HEIGHT="8.96000000000026" FRTYPE="3" CLIPEDIT="1" PWIDTH="1" PCOLOR="grey.Black" SHADE="60" PLINEART="1" TEXTFLOWMODE="1" path="M5.5065 4.95586 L1.75364 8.76266 C1.49425 9.02578 1.07481 9.02578 0.818179 8.76266 L0.194542 8.13006 C-0.0648473 7.86694 -0.0648473 7.44147 0.194542 7.18116 L2.85466 4.4828 L0.194542 1.78444 C-0.0648473 1.52132 -0.0648473 1.09586 0.194542 0.835539 L0.81542 0.197339 C1.07481 -0.0657794 1.49425 -0.0657794 1.75088 0.197339 L5.50374 4.00414 C5.76589 4.26727 5.76589 4.69273 5.5065 4.95586 L5.5065 4.95586 M10.8047 4.00414 L7.0518 0.197339 C6.79241 -0.0657794 6.37297 -0.0657794 6.11634 0.197339 L5.4927 0.829941 C5.23331 1.09306 5.23331 1.51853 5.4927 1.77884 L8.15282 4.4772 L5.4927 7.17556 C5.23331 7.43868 5.23331 7.86414 5.4927 8.12446 L6.11634 8.75706 C6.37573 9.02018 6.79517 9.02018 7.0518 8.75706 L10.8047 4.95025 C11.064 4.69273 11.064 4.26727 10.8047 4.00414 " copath="M5.5065 4.95586 L1.75364 8.76266 C1.49425 9.02578 1.07481 9.02578 0.818179 8.76266 L0.194542 8.13006 C-0.0648473 7.86694 -0.0648473 7.44147 0.194542 7.18116 L2.85466 4.4828 L0.194542 1.78444 C-0.0648473 1.52132 -0.0648473 1.09586 0.194542 0.835539 L0.81542 0.197339 C1.07481 -0.0657794 1.49425 -0.0657794 1.75088 0.197339 L5.50374 4.00414 C5.76589 4.26727 5.76589 4.69273 5.5065 4.95586 L5.5065 4.95586 Z M10.8047 4.00414 L7.0518 0.197339 C6.79241 -0.0657794 6.37297 -0.0657794 6.11634 0.197339 L5.4927 0.829941 C5.23331 1.09306 5.23331 1.51853 5.4927 1.77884 L8.15282 4.4772 L5.4927 7.17556 C5.23331 7.43868 5.23331 7.86414 5.4927 8.12446 L6.11634 8.75706 C6.37573 9.02018 6.79517 9.02018 7.0518 8.75706 L10.8047 4.95025 C11.064 4.69273 11.064 4.26727 10.8047 4.00414 Z" fillRule="0" gXpos="761.8008" gYpos="289.64" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="198.1" YPOS="4733.9824" OwnPage="5" ItemID="110646224" PTYPE="4" WIDTH="415.8" HEIGHT="209.217599999998" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNAME="Copy of RequestingTest3" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="7.2" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L415.8 0 L415.8 209.218 L0 209.218 L0 0 Z" copath="M0 0 L415.8 0 L415.8 209.218 L0 209.218 L0 0 Z" gXpos="198.1" gYpos="1405.9696" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle FONT="IBM Plex Serif Bold" FONTSIZE="24" FCOLOR="blue.Dark"/>
+                <ITEXT CPARENT="Bold" CH="4. "/>
+                <ITEXT CH="From the list of available options, select your test, then click Request Proctor Test."/>
+                <para PARENT="OL"/>
+                <ITEXT CH="You can search for your test in several ways:"/>
+                <para PARENT="OL smaller"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="14" CH="• Search by course."/>
+                <ITEXT CPARENT="Bold" CH=" "/>
+                <ITEXT CH="Find your course by name o number. For example, BTNY 3504."/>
+                <para PARENT="OL smaller" LINESP="15"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="14" CH="• Search by instructor."/>
+                <ITEXT CPARENT="Bold" CH=" "/>
+                <ITEXT CH="Find your course by looking for your instructor's name."/>
+                <para PARENT="OL smaller" LINESP="15"/>
+                <ITEXT CPARENT="Bold" FONTSIZE="14" CH="• Search by name."/>
+                <ITEXT CPARENT="Bold" CH=" "/>
+                <ITEXT CPARENT="Action result" CH="Find your course by looking for the name of the test itself."/>
+                <trail PARENT="OL"/>
+            </StoryText>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="none" Value="Setting up a proctor" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.2" YPOS="971.9952" OwnPage="1" ItemID="110649184" PTYPE="4" WIDTH="369.6" HEIGHT="520.8048" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L369.6 0 L369.6 520.805 L0 520.805 L0 0 Z" copath="M0 0 L369.6 0 L369.6 520.805 L0 520.805 L0 0 Z" gXpos="221.2" gYpos="971.9952" gWidth="0" gHeight="0" PSTYLE="TOC" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="TOC"/>
+                <ITEXT CH="3  Setting up a proctor"/>
+                <para/>
+                <ITEXT CH="4  Finding an approved proctor by location"/>
+                <para/>
+                <ITEXT CH="4  Searching for proctors"/>
+                <para/>
+                <ITEXT CH="5  Creating new proctors"/>
+                <para/>
+                <ITEXT CH="6  Requesting a test from a proctor"/>
+                <para/>
+                <ITEXT CH="7  Taking a test"/>
+                <para/>
+                <ITEXT CH="7  Reviewing a test"/>
+                <para/>
+                <ITEXT CH="8  Frequently asked questions"/>
+                <para/>
+                <ITEXT CH="9  Other helpful information"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.2" YPOS="971.9952" OwnPage="1" ItemID="110652144" PTYPE="4" WIDTH="184.8" HEIGHT="18.5999999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="0 763 0" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="" ANZIEL="2" ANACTYP="2" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="linkSettingProctor" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L184.8 0 L184.8 18.6 L0 18.6 L0 0 Z" copath="M0 0 L184.8 0 L184.8 18.6 L0 18.6 L0 0 Z" gXpos="221.2" gYpos="971.9952" gWidth="0" gHeight="0" PSTYLE="TOC" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="TOC"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.2" YPOS="990.5952" OwnPage="1" ItemID="110655104" PTYPE="4" WIDTH="341.1714" HEIGHT="21.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="0 763 0" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="" ANZIEL="3" ANACTYP="2" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="linkFindingProctor" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L341.171 0 L341.171 21.6 L0 21.6 L0 0 Z" copath="M0 0 L341.171 0 L341.171 21.6 L0 21.6 L0 0 Z" gXpos="221.2" gYpos="990.5952" gWidth="0" gHeight="0" PSTYLE="TOC" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="TOC"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.2" YPOS="1012.1952" OwnPage="1" ItemID="110658064" PTYPE="4" WIDTH="341.1714" HEIGHT="20.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="0 396 0" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="" ANZIEL="3" ANACTYP="2" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="linkSearchingProctor" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L341.171 0 L341.171 20.4 L0 20.4 L0 0 Z" copath="M0 0 L341.171 0 L341.171 20.4 L0 20.4 L0 0 Z" gXpos="221.2" gYpos="1012.1952" gWidth="0" gHeight="0" PSTYLE="TOC" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="TOC"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.2" YPOS="1032.5952" OwnPage="1" ItemID="110661024" PTYPE="4" WIDTH="341.1714" HEIGHT="20.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="0 763 0" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="" ANZIEL="4" ANACTYP="2" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="linkCreatingProctor" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L341.171 0 L341.171 20.4 L0 20.4 L0 0 Z" copath="M0 0 L341.171 0 L341.171 20.4 L0 20.4 L0 0 Z" gXpos="221.2" gYpos="1032.5952" gWidth="0" gHeight="0" PSTYLE="TOC" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="TOC"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.2" YPOS="1052.9952" OwnPage="1" ItemID="110663984" PTYPE="4" WIDTH="341.1714" HEIGHT="21.6048000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="0 763 0" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="" ANZIEL="5" ANACTYP="2" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="linkRequestingTest" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L341.171 0 L341.171 21.6048 L0 21.6048 L0 0 Z" copath="M0 0 L341.171 0 L341.171 21.6048 L0 21.6048 L0 0 Z" gXpos="221.2" gYpos="1052.9952" gWidth="0" gHeight="0" PSTYLE="TOC" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="TOC"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.2" YPOS="1074.6" OwnPage="1" ItemID="110666944" PTYPE="4" WIDTH="341.1714" HEIGHT="19.8" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="0 630 0" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="" ANZIEL="6" ANACTYP="2" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="linkTakingTest" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L341.171 0 L341.171 19.8 L0 19.8 L0 0 Z" copath="M0 0 L341.171 0 L341.171 19.8 L0 19.8 L0 0 Z" gXpos="221.2" gYpos="1074.6" gWidth="0" gHeight="0" PSTYLE="TOC" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="TOC"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.2" YPOS="1094.4" OwnPage="1" ItemID="110669904" PTYPE="4" WIDTH="341.1714" HEIGHT="21.6000000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="0 307 0" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="" ANZIEL="6" ANACTYP="2" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="linkReviewingTest" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L341.171 0 L341.171 21.6 L0 21.6 L0 0 Z" copath="M0 0 L341.171 0 L341.171 21.6 L0 21.6 L0 0 Z" gXpos="221.2" gYpos="1094.4" gWidth="0" gHeight="0" PSTYLE="TOC" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="TOC"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.2" YPOS="1116" OwnPage="1" ItemID="110672864" PTYPE="4" WIDTH="341.1714" HEIGHT="21.6000000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="0 763 0" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="" ANZIEL="7" ANACTYP="2" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="linkFAQ" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L341.171 0 L341.171 21.6 L0 21.6 L0 0 Z" copath="M0 0 L341.171 0 L341.171 21.6 L0 21.6 L0 0 Z" gXpos="221.2" gYpos="1116" gWidth="0" gHeight="0" PSTYLE="TOC" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="TOC"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="221.2" YPOS="1137.6" OwnPage="1" ItemID="110675824" PTYPE="4" WIDTH="341.1714" HEIGHT="18.5999999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" ANNOTATION="1" ANTYPE="11" ANACTION="0 763 0" ANEACT="" ANXACT="" ANDACT="" ANFOACT="" ANBLACT="" ANKACT="" ANFACT="" ANVACT="" ANCACT="" ANEXTERN="" ANZIEL="8" ANACTYP="2" ANTOOLTIP="" ANBWID="1" ANBSTY="0" ANFEED="1" ANFLAG="0" ANFONT="4" ANFORMAT="0" ANROLL="" ANDOWN="" ANVIS="0" ANMC="-1" ANCHK="0" ANAA="0" ANCHKS="0" ANBCOL="Black" ANHTML="0" ANICON="0" ANPLACE="1" ANSCALE="0" ANITYP="0" ANOPEN="0" ANNAME="linkOtherInfo" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L341.171 0 L341.171 18.6 L0 18.6 L0 0 Z" copath="M0 0 L341.171 0 L341.171 18.6 L0 18.6 L0 0 Z" gXpos="221.2" gYpos="1137.6" gWidth="0" gHeight="0" PSTYLE="TOC" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="TOC"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
