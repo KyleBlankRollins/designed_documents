@@ -1,0 +1,1223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.5.3">
+    <DOCUMENT ANZPAGES="16" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="0" PAGESIZE="Letter" FIRSTNUM="1" BOOK="0" AUTOSPALTEN="1" ABSTSPALTEN="11" UNITS="0" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="100" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPPr="Fogra27L CMYK Coated Press" DPIn="sRGB IEC61966-2.1" DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="sRGB IEC61966-2.1" DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="en_US" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" SnapToElement="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" previewMode="0" SHOWFRAME="1" SHOWControl="0" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.502045814642449" POLYR="0" POLYIR="0" POLYCUR="0" POLYOCUR="0" POLYS="0" arcStartAngle="30" arcSweepAngle="300" spiralStartAngle="0" spiralEndAngle="1080" spiralFactor="1.2" AutoSave="1" AutoSaveTime="600000" AutoSaveCount="1" AutoSaveKeep="0" AUtoSaveInDocDir="1" AutoSaveDir="" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" CPICT="None" PICTSHADE="100" CSPICT="None" PICTSSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" renderStack="2 0 4 1 3" GridType="0" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PDF 1.4" calligraphicPenFillColor="Black" calligraphicPenLineColor="Black" calligraphicPenFillColorShade="100" calligraphicPenLineColorShade="100" calligraphicPenLineWidth="1" calligraphicPenAngle="0" calligraphicPenWidth="10" calligraphicPenStyle="1">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-1a" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="1" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="1" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PDF/X-4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="1" checkFontNotEmbedded="1" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkPartFilledImageFrames="0" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkNotCMYKOrSpot="0" checkDeviceColorsAndOutputIntent="0" checkFontNotEmbedded="0" checkFontIsOpenType="0" checkAppliedMasterDifferentSide="1" checkEmptyTextFrames="1"/>
+        <COLOR NAME="Black" CMYK="#000000ff"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Register="1"/>
+        <COLOR NAME="White" CMYK="#00000000"/>
+        <COLOR NAME="grey.Dark" RGB="#4a4a4a"/>
+        <COLOR NAME="orange.Dark" RGB="#552200"/>
+        <COLOR NAME="orange.Light" RGB="#ffccaa"/>
+        <COLOR NAME="orange.Primary" RGB="#aa6639"/>
+        <COLOR NAME="purple.Dark" RGB="#200439"/>
+        <COLOR NAME="purple.Light" RGB="#9277ac"/>
+        <COLOR NAME="purple.Primary" RGB="#512c73"/>
+        <COLOR NAME="teal.Dark" RGB="#00362d"/>
+        <COLOR NAME="teal.Light" RGB="#6ca299"/>
+        <COLOR NAME="teal.Primary" RGB="#246c60"/>
+        <COLOR NAME="yellos.Primary" RGB="#aaa439"/>
+        <COLOR NAME="yellow.Dark" RGB="#555100"/>
+        <COLOR NAME="yellow.Light" RGB="#fffbaa"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="0" DIRECTION="0" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="0" VOR="0" NACH="0" ParagraphEffectOffset="0" DROP="0" DROPLIN="2" Bullet="0" Numeration="0" HyphenConsecutiveLines="2" BCOLOR="None" BSHADE="100"/>
+        <STYLE NAME="H1" VOR="6" NACH="25" FONT="Oswald SemiBold" FONTSIZE="32" FONTFEATURES="-clig" FCOLOR="grey.Dark" LANGUAGE="en_US"/>
+        <STYLE NAME="H2" PARENT="H1" VOR="3" NACH="14" FONTSIZE="24" FCOLOR="grey.Dark"/>
+        <STYLE NAME="Body" VOR="2" NACH="8" FONT="Raleway Medium" FONTFEATURES="-clig" FCOLOR="grey.Dark" LANGUAGE="en_US"/>
+        <STYLE NAME="H3" PARENT="H1" VOR="12" NACH="8" FONT="Oswald Medium" FONTSIZE="18" FONTFEATURES="-clig"/>
+        <STYLE NAME="Topic title" PARENT="H1" VOR="2" NACH="8" FONT="Oswald Medium" FONTSIZE="12" FONTFEATURES="-clig"/>
+        <STYLE NAME="Example" PARENT="Body" FONTSIZE="10" BGCOLOR="None"/>
+        <STYLE NAME="Note" PARENT="Body" FONT="Raleway Bold" FONTSIZE="10" FONTFEATURES="-clig" FCOLOR="White"/>
+        <STYLE NAME="Sub topic title" PARENT="Topic title" ALIGN="0" INDENT="20" FIRST="0" FONTSIZE="10">
+            <Tabs Type="0" Pos="0" Fill=""/>
+        </STYLE>
+        <STYLE NAME="Indent body" PARENT="Body" INDENT="20"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="IBM Plex Sans Medium" FONTSIZE="12" FONTFEATURES="" FEATURES="inherit" FCOLOR="Black" FSHADE="100" HyphenWordMin="3" SCOLOR="Black" BGCOLOR="None" BGSHADE="100" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Example highlight" FONT="Raleway Medium" FONTSIZE="10" FONTFEATURES="-clig" FCOLOR="grey.Dark" BGCOLOR="yellow.Light" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Chevron" FONT="Oswald Bold" FONTSIZE="10" FONTFEATURES="-clig" FCOLOR="White" BGCOLOR="teal.Primary" LANGUAGE="en_US"/>
+        <CHARSTYLE CNAME="Example bold" FONT="Raleway Bold" FONTSIZE="10" FONTFEATURES="-clig" FCOLOR="grey.Dark" LANGUAGE="en_US"/>
+        <TableStyle NAME="Default Table Style" DefaultStyle="1" FillColor="None" FillShade="100">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </TableStyle>
+        <CellStyle NAME="Default Cell Style" DefaultStyle="1" FillColor="None" FillShade="100" LeftPadding="1" RightPadding="1" TopPadding="1" BottomPadding="1">
+            <TableBorderLeft>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderLeft>
+            <TableBorderRight>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderRight>
+            <TableBorderTop>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderTop>
+            <TableBorderBottom>
+                <TableBorderLine Width="1" PenStyle="1" Color="Black" Shade="100"/>
+            </TableBorderBottom>
+        </CellStyle>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Background" SICHTBAR="1" DRUCKEN="1" EDIT="1" SELECT="0" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="0" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-328966" PDLanguage="-328966" markLength="nan" markOffset="nan" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" rangeSel="0" rangeTxt="" RotateDeg="0" PresentMode="0" RecalcPic="0" FontEmbedding="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="sRGB IEC61966-2.1" ImageP="sRGB IEC61966-2.1" PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markLength="20" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" openAfterExport="0" PageLayout="0" openAction="">
+            <Fonts Name="Oswald Bold"/>
+            <Fonts Name="Oswald Medium"/>
+            <Fonts Name="Oswald SemiBold"/>
+            <Fonts Name="Raleway Black"/>
+            <Fonts Name="Raleway Bold"/>
+            <Fonts Name="Raleway Medium"/>
+            <Fonts Name="Raleway Medium Italic"/>
+            <Subset Name="Arial Regular"/>
+            <LPI Color="" Frequency="10" Angle="0" SpotFunction="0"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents/>
+        <NotesStyles>
+            <notesStyle Name="Default" Start="1" Endnotes="0" Type="Type_1_2_3" Range="0" Prefix="" Suffix=")" AutoHeight="1" AutoWidth="1" AutoRemove="1" AutoWeld="1" SuperNote="1" SuperMaster="1" MarksStyle="" NotesStyle=""/>
+        </NotesStyles>
+        <NotesFrames/>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Facing Pages" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="15" Type="Type_1_2_3" Start="1" Reversed="0" Active="1" FillChar="0" FieldWidth="0"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="0" NAM="Normal" MNAM="" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="0" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="5" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="852" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="1" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="5" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1684" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="2" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="5" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2516" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="3" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="5" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3348" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="4" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="5" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4180" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="5" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="5" AGverticalAutoCount="5" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5012" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="6" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="5844" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="7" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="6676" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="8" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="1" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="7508" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="9" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="8340" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="10" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="9172" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="11" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="10004" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="12" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="10836" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="13" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="11668" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="14" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="12500" PAGEWIDTH="612" PAGEHEIGHT="792" BORDERLEFT="20" BORDERRIGHT="20" BORDERTOP="20" BORDERBOTTOM="20" NUM="15" NAM="" MNAM="Normal" Size="Letter" Orientation="0" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0" pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="1123.66666666667" OwnPage="1" ItemID="110350112" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="yellow.Light" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="191.866666666667" gYpos="126.333333333334" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="998.333333333334" OwnPage="1" ItemID="110190512" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="orange.Light" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="191.866666666667" gYpos="1.00000000000091" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="120" YPOS="1153.33333333333" OwnPage="1" ItemID="113830416" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="1.20000000000005" gYpos="156.000000000001" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Compound adjectives  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="4"/>
+                <para PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Compound nouns "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 4"/>
+                <para PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Proper nouns  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="4"/>
+                <para PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Parallel structure "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 4"/>
+                <para PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Dialect(s) "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 4"/>
+                <para PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Subject-verb agreement "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 5"/>
+                <trail PARENT="Example" ALIGN="2" LINESP="5"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="997.333333333333" OwnPage="1" ItemID="113837360" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="1.19999999999999" gYpos="2.27373675443232e-13" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Introduction"/>
+                <tab FONTSIZE="18"/>
+                <ITEXT FONTSIZE="18" CH="               3"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.999999999999" YPOS="1028" OwnPage="1" ItemID="126378832" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="1.19999999999902" gYpos="30.6666666666672" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="1122.66666666667" OwnPage="1" ItemID="126381680" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="1.20000000000005" gYpos="125.333333333334" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Grammar and usage        4"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="309.566666666667" YPOS="1247.9" OwnPage="1" ItemID="126487312" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="purple.Light" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="190.766666666667" gYpos="250.566666666667" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="119.400000000001" YPOS="1247.4" OwnPage="1" ItemID="126490064" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="0.600000000000961" gYpos="250.066666666667" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Punctuation"/>
+                <tab FONTSIZE="18"/>
+                <ITEXT FONTSIZE="18" CH="               5"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.4" YPOS="1278.06666666667" OwnPage="1" ItemID="126492912" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="0.599999999999994" gYpos="280.733333333334" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Semicolons  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="5"/>
+                <para PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Commas "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 5"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Hyphens, en dashes, and em dashes  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="5"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Apostrophes "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 6"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="309.566666666667" YPOS="1373.23333333333" OwnPage="1" ItemID="126495760" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="teal.Light" PCOLOR2="White" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="190.766666666667" gYpos="375.9" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="119.4" YPOS="1372.73333333333" OwnPage="1" ItemID="124663904" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="0.599999999999994" gYpos="375.4" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Spelling"/>
+                <tab FONTSIZE="18"/>
+                <ITEXT FONTSIZE="18" CH="                       6"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="119.4" YPOS="1403.4" OwnPage="1" ItemID="124666752" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="0.599999999999994" gYpos="406.066666666667" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Commonly misspelled words "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 6"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="502.533333333334" YPOS="1123.66666666667" OwnPage="1" ItemID="124669600" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="yellow.Light" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="383.733333333334" gYpos="126.333333333334" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="502.533333333334" YPOS="998.333333333333" OwnPage="1" ItemID="124672352" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="orange.Light" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="383.733333333334" gYpos="1" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="311.866666666667" YPOS="1153.33333333333" OwnPage="1" ItemID="124675104" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="193.066666666667" gYpos="156" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Place names  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="7"/>
+                <para PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Characters  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="7"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="311.866666666667" YPOS="997.333333333333" OwnPage="1" ItemID="124864160" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="193.066666666667" gYpos="0" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Sentence structure         7"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="311.866666666666" YPOS="1028" OwnPage="1" ItemID="124831408" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="193.066666666666" gYpos="30.666666666667" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Dependent clause  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="7"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Independent clause  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="7"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Sentence fragment  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="7"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="311.866666666667" YPOS="1122.66666666667" OwnPage="1" ItemID="124945920" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="193.066666666667" gYpos="125.333333333333" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Names and terms            7"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="501.433333333334" YPOS="1247.9" OwnPage="1" ItemID="124948768" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="purple.Light" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="382.633333333334" gYpos="250.566666666667" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="311.266666666668" YPOS="1247.4" OwnPage="1" ItemID="124838352" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="192.466666666668" gYpos="250.066666666667" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Geographical terms        8"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="311.266666666667" YPOS="1278.06666666667" OwnPage="1" ItemID="124867008" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="192.466666666667" gYpos="280.733333333334" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Real-world locations "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 8"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Game locations  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="8"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="501.433333333334" YPOS="1373.23333333333" OwnPage="1" ItemID="124932416" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="teal.Light" PCOLOR2="White" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="382.633333333334" gYpos="375.9" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="311.266666666667" YPOS="1372.73333333333" OwnPage="1" ItemID="124857552" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="192.466666666667" gYpos="375.4" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Numbers"/>
+                <tab FONTSIZE="18"/>
+                <ITEXT FONTSIZE="18" CH="                       8"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="311.266666666667" YPOS="1403.4" OwnPage="1" ItemID="124860400" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="192.466666666667" gYpos="406.066666666667" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Dates "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 8"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Large numbers  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="8"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="691.4" YPOS="1123.66666666667" OwnPage="1" ItemID="124935168" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="yellow.Light" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="572.6" gYpos="126.333333333334" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="691.4" YPOS="998.333333333333" OwnPage="1" ItemID="124937920" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="orange.Light" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="572.6" gYpos="1" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="500.733333333333" YPOS="1153.33333333333" OwnPage="1" ItemID="124940672" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="381.933333333333" gYpos="156" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Bestiary  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="10"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Monster moves "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 11"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="500.733333333333" YPOS="997.333333333333" OwnPage="1" ItemID="122945712" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="381.933333333333" gYpos="0" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Document types              9"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="500.733333333332" YPOS="1028" OwnPage="1" ItemID="122948672" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="381.933333333332" gYpos="30.666666666667" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Naming documents  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="9"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Informational documents  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="9"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Game mechanics documents  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="9"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Game story documents  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="9"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Planning documents  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="9"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="500.733333333333" YPOS="1122.66666666667" OwnPage="1" ItemID="122951632" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="381.933333333333" gYpos="125.333333333333" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Game documents          10"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="690.3" YPOS="1247.9" OwnPage="1" ItemID="124841200" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="purple.Light" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="571.5" gYpos="250.566666666667" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="500.133333333334" YPOS="1247.4" OwnPage="1" ItemID="122954592" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="381.333333333334" gYpos="250.066666666667" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Story documents           11"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="500.133333333333" YPOS="1278.06666666667" OwnPage="1" ItemID="122957552" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="381.333333333333" gYpos="280.733333333334" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Quests "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH=" 11"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Plot  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="12"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Dialogue"/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="  14"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="690.3" YPOS="1373.23333333333" OwnPage="1" ItemID="124843952" PTYPE="6" WIDTH="124.333333333333" HEIGHT="189.666666666667" FRTYPE="4" CLIPEDIT="1" ROT="90" PWIDTH="1" PCOLOR="teal.Light" PCOLOR2="White" PLINEART="1" path="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" copath="M0 0 L124.333 189.667 L0 189.667 L0 0 Z" gXpos="571.5" gYpos="375.9" gWidth="573.2" gHeight="501.333333333334" LAYER="0"/>
+        <PAGEOBJECT XPOS="500.133333333333" YPOS="1372.73333333333" OwnPage="1" ItemID="122960512" PTYPE="4" WIDTH="190.666666666667" HEIGHT="31.2666666666662" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="5" TEXTRA="0" BEXTRA="5" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 31.2667 L0 31.2667 L0 0 Z" gXpos="381.333333333333" gYpos="375.4" gWidth="573.2" gHeight="501.333333333334" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT FONTSIZE="18" CH="Planning documents      14"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="500.133333333333" YPOS="1403.4" OwnPage="1" ItemID="122963472" PTYPE="4" WIDTH="190.666666666667" HEIGHT="94.6666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1.2" PCOLOR="grey.Dark" SHADE="10" PCOLOR2="White" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="5" BEXTRA="0" REXTRA="5" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" copath="M0 0 L190.667 0 L190.667 94.6667 L0 94.6667 L0 0 Z" gXpos="381.333333333333" gYpos="406.066666666667" gWidth="573.2" gHeight="501.333333333334" PSTYLE="Example" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Example" ALIGN="2" LINESP="5"/>
+                <ITEXT FONTSIZE="10" CH="Task list  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="14"/>
+                <para/>
+                <ITEXT FONTSIZE="10" CH="Art  "/>
+                <ITEXT FONT="Raleway Bold" FONTSIZE="10" CH="15"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="997.333333333333" OwnPage="1" ItemID="124846704" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="grey.Dark" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="997.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="120" YPOS="6821.33333333333" OwnPage="8" ItemID="122966432" PTYPE="4" WIDTH="476.666666666667" HEIGHT="186.666666666672" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 186.667 L0 186.667 L0 0 Z" copath="M0 0 L476.667 0 L476.667 186.667 L0 186.667 L0 0 Z" gXpos="120" gYpos="2661.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="8.1 Naming documents"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="All documents should have a title that reflects their contents, including a parenthetical statement signifying the document's role (informational, mechanical, story, or planning)."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  Characters (informational) – 11/21/11"/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  Monster names (mechanical) – 11/23/11"/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  Quests (story) – 11/19/11"/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  Task list (planning) – 11/15/11"/>
+                <trail PARENT="Example"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="738" YPOS="40.4" OwnPage="-1" ItemID="122969392" PTYPE="4" WIDTH="140" HEIGHT="52.6" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L140 0 L140 52.6 L0 52.6 L0 0 Z" copath="M0 0 L140 0 L140 52.6 L0 52.6 L0 0 Z" gXpos="738" gYpos="40.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle/>
+                <ITEXT CH="http://paletton.com/#uid=73d1n0kllllaFw0g0qFqFg0w0aF"/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="100" YPOS="20" OwnPage="0" ItemID="124849456" PTYPE="6" WIDTH="612" HEIGHT="792" FRTYPE="4" CLIPEDIT="1" PWIDTH="1" PCOLOR="teal.Primary" PLINEART="1" path="M0 0 L612 792 L0 792 L0 0 Z" copath="M0 0 L612 792 L0 792 L0 0 Z" gXpos="100" gYpos="20" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="165.333333333333" OwnPage="0" ItemID="122972352" PTYPE="4" WIDTH="381.333333333333" HEIGHT="125.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L381.333 0 L381.333 125.333 L0 125.333 L0 0 Z" copath="M0 0 L381.333 0 L381.333 125.333 L0 125.333 L0 0 Z" gXpos="310.666666666667" gYpos="165.333333333333" gWidth="0" gHeight="0" PSTYLE="H1" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H1"/>
+                <ITEXT CH="Gimo Games Style Guide"/>
+                <trail PARENT="H1"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="215.333333333333" YPOS="541.333333333333" OwnPage="0" ItemID="122975312" PTYPE="4" WIDTH="381.333333333333" HEIGHT="125.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L381.333 0 L381.333 125.333 L0 125.333 L0 0 Z" copath="M0 0 L381.333 0 L381.333 125.333 L0 125.333 L0 0 Z" gXpos="215.333333333333" gYpos="541.333333333333" gWidth="0" gHeight="0" PSTYLE="H2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="A resource for document formatting"/>
+                <trail PARENT="H2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="215.333333333333" YPOS="741.6" OwnPage="0" ItemID="122978272" PTYPE="4" WIDTH="95.3333333333333" HEIGHT="50.4" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L95.3333 0 L95.3333 50.4 L0 50.4 L0 0 Z" copath="M0 0 L95.3333 0 L95.3333 50.4 L0 50.4 L0 0 Z" gXpos="215.333333333333" gYpos="741.6" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body" LINESP="4" FONT="Raleway Medium" FCOLOR="White"/>
+                <ITEXT FONT="Raleway Medium" FCOLOR="White" CH="Gimo Games"/>
+                <para PARENT="Body" LINESP="4"/>
+                <ITEXT FONT="Raleway Medium" FCOLOR="White" CH="Kyle Rollins"/>
+                <trail PARENT="Body" LINESP="4"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="1867.2" OwnPage="2" ItemID="122981232" PTYPE="4" WIDTH="476.666666666667" HEIGHT="588.799999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 588.8 L0 588.8 L0 0 Z" copath="M0 0 L476.667 0 L476.667 588.8 L0 588.8 L0 0 Z" gXpos="120" gYpos="1867.2" gWidth="0" gHeight="0" PSTYLE="H2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2"/>
+                <ITEXT CH="Introduction"/>
+                <para PARENT="H2"/>
+                <ITEXT FONT="Raleway Medium Italic" CH="Fall 2011"/>
+                <para PARENT="Body"/>
+                <ITEXT CH="Gimo Games is a young company with relatively few team members. This style guide aims to standardize writing and document formatting for everyone on the team. Even with only a handful of people contributing to documents within and without Gimo Games, there can be a large disparity in formatting, consistency, and accuracy.  This style guide addresses those issues, and establishes the company voice. "/>
+                <para PARENT="Body"/>
+                <ITEXT CH="It is important that any documents that find their way out of Gimo Games have the same voice. This unity of voice will contribute to the team's image of a unified group of talented individuals who strive to create quality products. This style guide will help us achieve professionalism and competency in writing."/>
+                <para PARENT="Body"/>
+                <ITEXT CH="Gimo Games’ publications and documents rely heavily on two sources: The Chicago Manual of Style 16th Edition (CMS) and Merriam-Webster.com. This style guide follows many of the guidelines found in The Chicago Manual of Style and defers to Dictionary.com in matters of spelling and hyphenation. If there is any dispute about the rules in this style guide, or a rule is not present, refer to the aformentioned sources."/>
+                <para PARENT="Body"/>
+                <ITEXT CH="Please note that revisions and additions of this style guide will be frequent. As new needs arise within Gimo Games, they will be addressed in new versions."/>
+                <trail PARENT="Body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="2661.33333333333" OwnPage="3" ItemID="124854256" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="purple.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="2516" OwnPage="3" ItemID="122984192" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="General Guidance"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="2619" OwnPage="3" ItemID="122987152" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2619" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Grammar and usage"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="2661.33333333333" OwnPage="3" ItemID="122990112" PTYPE="4" WIDTH="476.666666666667" HEIGHT="626.666666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 626.667 L0 626.667 L0 0 Z" copath="M0 0 L476.667 0 L476.667 626.667 L0 626.667 L0 0 Z" gXpos="120" gYpos="2661.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="1.1 Compound adjectives"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Also known as compound modifiers, these are words joined by one or more hyphens that describe a person, place, thing, or idea. Use when describing a noun or pronoun, but need more than a single descriptive word."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  The "/>
+                <ITEXT CPARENT="Example highlight" CH="half-baked"/>
+                <ITEXT CH=" cookie wasn't very good."/>
+                <para PARENT="Example"/>
+                <ITEXT CH="1.2 Compound nouns"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="These are nouns made up of more than one word. Typically, the two words are combined into one, with either no space between them or a hyphen. However, some compound nouns do include a space and look like two separate words."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  The "/>
+                <ITEXT CPARENT="Example highlight" CH="water tank"/>
+                <ITEXT CH=" broke and flooded the "/>
+                <ITEXT CPARENT="Example highlight" CH="bedroom"/>
+                <ITEXT CH="."/>
+                <para PARENT="Example"/>
+                <ITEXT CH="1.3 Proper nouns"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Proper nouns call attention to specific things, such as a title or a city."/>
+                <nbspace/>
+                <ITEXT CH="No other nouns should be capitalized, unless the author intends to call special attention to them."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <nbspace/>
+                <ITEXT CH="The "/>
+                <ITEXT CPARENT="Example highlight" CH="Loch Ness Monster"/>
+                <ITEXT CH=" is rumored to live in "/>
+                <ITEXT CPARENT="Example highlight" CH="Scotland"/>
+                <ITEXT CH=". "/>
+                <para PARENT="Example"/>
+                <ITEXT CH="1.4 Parallel structure"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Parallel structure within a document means that style, organization, and other aspects of the document are consistent throughout. For example, this document is broken into sections about different topics. Each section has a heading, followed by descriptive text. This pattern is parallel structure in action."/>
+                <para PARENT="Body"/>
+                <ITEXT CH="1.5 Dialect(s)"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Because of the unique nature of the documents this company prepares, they also should adhere to the guidelines found in the CMS as to any dialects used."/>
+                <nbspace/>
+                <ITEXT CH="Otherwise, the readability of the documents will decrease and they won’t be as clear. Also, following such guidelines may preserve the dialects used while making them clearer."/>
+                <trail PARENT="Body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="3493.33333333333" OwnPage="4" ItemID="124919008" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="purple.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="3348" OwnPage="4" ItemID="122993072" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="General Guidance"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="3451" OwnPage="4" ItemID="122996032" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2619" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Grammar and usage, continued..."/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="3493.33333333333" OwnPage="4" ItemID="122998992" PTYPE="4" WIDTH="476.666666666667" HEIGHT="626.66666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 626.667 L0 626.667 L0 0 Z" copath="M0 0 L476.667 0 L476.667 626.667 L0 626.667 L0 0 Z" gXpos="120" gYpos="2661.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="1.6 Subject-verb agreement"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Subject-verb agreement means that verbs take the right form compared to the preceding noun. This makes the documents simpler easier to read, as subject-verb issues are very jarring."/>
+                <para/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <nbspace/>
+                <ITEXT CH="Correct: The trains run on schedule."/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  Incorrect: The "/>
+                <ITEXT CPARENT="Example highlight" CH="trains runs"/>
+                <ITEXT CH=" on schedule."/>
+                <para PARENT="Example"/>
+                <ITEXT CH="Punctuation"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="2.1 Semicolons"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Semicolons separate independent clauses (complete sentences), and clarify long sentences."/>
+                <nbspace/>
+                <ITEXT CH="Ideally, semicolons should be used only once per page. They only work when the phrases on either side of the semicolon can stand alone and make sense. Sometimes, they are also used before conjunctions."/>
+                <para/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" I failed to turn up for the exam"/>
+                <ITEXT CPARENT="Example highlight" CH=";"/>
+                <ITEXT CH=" a foolish mistake."/>
+                <para PARENT="Example"/>
+                <ITEXT CH="2.2 Commas"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Commas are used to break up sentences and create lists. Do not use commas excessively. Doing so will slow down and possibly confuse readers. Always use the serial comma. The serial comma appears before the conjunction in a series of three or more items. The conjunction should join the last two items of the series."/>
+                <para/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <nbspace/>
+                <ITEXT CH="When walking in Oz"/>
+                <ITEXT CPARENT="Example highlight" CH=","/>
+                <ITEXT CH=" Dorothy was afraid of lions"/>
+                <ITEXT CPARENT="Example highlight" CH=","/>
+                <ITEXT CH=" tigers"/>
+                <ITEXT CPARENT="Example highlight" CH=","/>
+                <ITEXT CH=" and bears."/>
+                <para PARENT="Example"/>
+                <ITEXT CH="2.3 Hyphens, en dashes, and em dashes"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Hyphens are used to create compound words and to separate numbers, such as phone numbers or dates. Additionally, if a word is spelled out letter by letter, use hyphens. However, do not use hyphens to indicate the word &quot;to&quot; in a range or to indicate an abrupt break in thought. The first calls for an en dash and the second, an em dash. "/>
+                <para/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  Hyphen: My phone number is not 801-731-0000. "/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  En Dash: I believe we need about 6 – 8  cups of flour. "/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  Em Dash: You really have done a good job—but you could have done better. "/>
+                <trail PARENT="Example"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="4325.33333333333" OwnPage="5" ItemID="125682592" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="purple.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="4180" OwnPage="5" ItemID="123001952" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="General Guidance"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="4283" OwnPage="5" ItemID="123004912" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2619" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Punctuation, continued..."/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="4325.33333333333" OwnPage="5" ItemID="123007872" PTYPE="4" WIDTH="476.666666666667" HEIGHT="626.66666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 626.667 L0 626.667 L0 0 Z" copath="M0 0 L476.667 0 L476.667 626.667 L0 626.667 L0 0 Z" gXpos="120" gYpos="2661.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="2.4 Apostrophes"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Apostrophes indicate possession or shorten words into contractions. Avoid slang uses of contractions, such as ain’t, unless appropriate for dialogue. Refer to the CMS if you're unsure how to form possessives. However, generally, plural nouns have the apostrophe after the "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="s"/>
+                <ITEXT CH=", and singular nouns have it before the "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="s"/>
+                <ITEXT CH="."/>
+                <para/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <nbspace/>
+                <ITEXT CH="My "/>
+                <ITEXT CPARENT="Example highlight" CH="brother’s"/>
+                <ITEXT CH=" apartment is downtown. "/>
+                <nbspace/>
+                <para PARENT="Example"/>
+                <ITEXT CH="Spelling"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="3.1 Commonly misspelled and confused words"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Below, you'll find a list of the most commonly misspelled words and a description of why the misspelling is an issue."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  "/>
+                <ITEXT CPARENT="Example bold" CH="They’re, their, and there"/>
+                <ITEXT CH="."/>
+                <breakline/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="They’re"/>
+                <ITEXT CH=" means they are, "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="their"/>
+                <ITEXT CH=" is used possessively, and "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="there"/>
+                <ITEXT CH=" indicates location."/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  "/>
+                <ITEXT CPARENT="Example bold" CH="You’re and your"/>
+                <ITEXT CH=". "/>
+                <nbspace/>
+                <breakline/>
+                <ITEXT CH=" Y"/>
+                <ITEXT FONT="Raleway Medium Italic" CH="ou’re"/>
+                <ITEXT CH=" means you are and "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="your"/>
+                <ITEXT CH=" indicates possessiveness. "/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  "/>
+                <ITEXT CPARENT="Example bold" CH="It’s and its"/>
+                <ITEXT CH=". "/>
+                <nbspace/>
+                <breakline/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="It’s"/>
+                <ITEXT CH=" refers to it is and "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="its"/>
+                <ITEXT CH=" shows possessiveness."/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  "/>
+                <ITEXT CPARENT="Example bold" CH="All ready, already"/>
+                <ITEXT CH="."/>
+                <breakline/>
+                <nbspace/>
+                <ITEXT FONT="Raleway Medium Italic" CH="All ready"/>
+                <ITEXT CH=" refers to a degree of preparation and "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="already"/>
+                <ITEXT CH=" refers to time."/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  "/>
+                <ITEXT CPARENT="Example bold" CH="Compliment, complement"/>
+                <ITEXT CH="."/>
+                <breakline/>
+                <nbspace/>
+                <ITEXT FONT="Raleway Medium Italic" CH="Compliment"/>
+                <ITEXT CH=" refers to a pleasant remark about something and complement means to enhance. "/>
+                <nbspace/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  "/>
+                <ITEXT CPARENT="Example bold" CH="Ensure, insure"/>
+                <ITEXT CH=". "/>
+                <nbspace/>
+                <breakline/>
+                <ITEXT CH=" "/>
+                <ITEXT FONT="Raleway Light Italic" CH="Ensure"/>
+                <ITEXT CH=" means to make sure something happens and "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="insure"/>
+                <ITEXT CH=" means to cover by insurance."/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  "/>
+                <ITEXT CPARENT="Example bold" CH="Principle, principal"/>
+                <ITEXT CH="."/>
+                <breakline/>
+                <nbspace/>
+                <ITEXT CH="A "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="principle"/>
+                <ITEXT CH=" is an ethic or virtue and a "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="principal"/>
+                <ITEXT CH=" is a role. "/>
+                <nbspace/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Example bold" CH=" Strait, straight"/>
+                <ITEXT CH="."/>
+                <breakline/>
+                <nbspace/>
+                <ITEXT CH="A "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="strait"/>
+                <ITEXT CH=" is a narrow body of water and "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="straight"/>
+                <ITEXT CH=" describes an object's layout."/>
+                <para PARENT="Example"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Example bold" CH=" Are, our"/>
+                <ITEXT CH="."/>
+                <breakline/>
+                <nbspace/>
+                <ITEXT FONT="Raleway Medium Italic" CH="Are"/>
+                <ITEXT CH=" is a verb and "/>
+                <ITEXT FONT="Raleway Medium Italic" CH="our"/>
+                <ITEXT CH=" is a possessive pronoun."/>
+                <trail PARENT="Example"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="5157.33333333333" OwnPage="6" ItemID="123306160" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="purple.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="5012" OwnPage="6" ItemID="122716336" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="General Guidance"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="5115" OwnPage="6" ItemID="122719296" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2619" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Sentence structure"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="5157.33333333333" OwnPage="6" ItemID="122722256" PTYPE="4" WIDTH="476.666666666667" HEIGHT="626.66666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 626.667 L0 626.667 L0 0 Z" copath="M0 0 L476.667 0 L476.667 626.667 L0 626.667 L0 0 Z" gXpos="120" gYpos="2661.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="4.1 Dependent clause"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="A dependent clause is a group of words that can't sensibly stand alone. Without another set of words, it doesn't make sense. In the following example, “will feel tired” is a dependent clause."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <nbspace/>
+                <ITEXT CH="I am staying up late, and "/>
+                <ITEXT CPARENT="Example highlight" CH="will feel tired"/>
+                <ITEXT CH="."/>
+                <para PARENT="Example"/>
+                <ITEXT CH="4.2 Independent clause"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="An independent clause is a group of words that can stand alone, having both a subject and a predicate. It does not require another set of words to make sense. In the following example, “I occasionally took breaks to maintain my steady pace” is an independent clause."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <nbspace/>
+                <ITEXT CH="While training, "/>
+                <ITEXT CPARENT="Example highlight" CH="I occasionally took breaks to maintain my steady pace"/>
+                <ITEXT CH="."/>
+                <para PARENT="Example"/>
+                <ITEXT CH="4.3 Sentence fragment"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="A sentence fragment is a sentence that lacks a subject, a predicate, or both. "/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <nbspace/>
+                <ITEXT CH="Games are fun for many reasons. "/>
+                <ITEXT CPARENT="Example highlight" CH="Such as flashy explosions"/>
+                <ITEXT CH="."/>
+                <para PARENT="Example"/>
+                <ITEXT CH="Names and terms"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="5.1 Place names"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="When talking of fictional places, determine whether the particular place holds significance within the story. If it is a general, common, sort of place, then no capitalization or other emphasis is needed. If it is an important place, such as a capital city, then it should be capitalized. This applies to information and story documents."/>
+                <para/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <nbspace/>
+                <ITEXT CH="Although fictional, "/>
+                <ITEXT CPARENT="Example highlight" CH="Atlantis"/>
+                <ITEXT CH=", should be capitalized because it is special. "/>
+                <para PARENT="Example"/>
+                <ITEXT CH="5.2 Characters"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Because video games generally refer to main characters as people, we recommend treating these as proper nouns. However, not all characters are main characters, and for more generic characters (such as fictitious creatures, perhaps) we would recommend treating them as common nouns. "/>
+                <nbspace/>
+                <para/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  A main character, like "/>
+                <ITEXT CPARENT="Example highlight" CH="Retah"/>
+                <ITEXT CH=", should be capitalized."/>
+                <trail PARENT="Example"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="5989.33333333333" OwnPage="7" ItemID="123308992" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="purple.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="5844" OwnPage="7" ItemID="122725216" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="General Guidance"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="5947" OwnPage="7" ItemID="122728176" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2619" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Geographical terms"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="5989.33333333333" OwnPage="7" ItemID="122731136" PTYPE="4" WIDTH="476.666666666667" HEIGHT="626.66666666667" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 626.667 L0 626.667 L0 0 Z" copath="M0 0 L476.667 0 L476.667 626.667 L0 626.667 L0 0 Z" gXpos="120" gYpos="2661.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="6.1 Real-world locations"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Depending on the type of real world location, rules will vary. If the place is significant, such as a capital, it needs to be capitalized and, if the author wishes, otherwise emphasized. That is the only time any emphasis is needed for these places."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH="  The author referred to "/>
+                <ITEXT CPARENT="Example highlight" CH="Hong Kong"/>
+                <ITEXT CH=", China in his document."/>
+                <para PARENT="Example"/>
+                <ITEXT CH="6.2 Game locations"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="To maintain consistent formatting throughout documents, we recommend that game locations be capitalized according to the same rules applied to real-world locations, characters, etc. The documents will appear more aesthetically pleasing this way."/>
+                <para PARENT="Body"/>
+                <ITEXT CH="Numbers"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="7.1 Dates"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Since most documents will remain unpublished, dates spell out the month and use a numeral for the day and year."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <nbspace/>
+                <ITEXT CH="My birthday is July 26, 1989."/>
+                <para PARENT="Example"/>
+                <ITEXT CH="7.2 Large numbers"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Numbers one through nine are spelled out. Numbers greater than nine use numerals. For large numbers, this rule still applies. Whole numbers are spelled out. For example, two-hundred thousand is spelled out completely. But 147.510 is not a whole number, and should not be spelled out. Even with larger numbers, spell out one through ninety-nine followed by million, billion, etc. If the first sequence of numbers is greater than ninety-nine, then numerals are used, such as : 220 million."/>
+                <para PARENT="Body"/>
+                <ITEXT CH=" "/>
+                <ITEXT CPARENT="Chevron" CH=" &gt;&gt; "/>
+                <ITEXT CH=" "/>
+                <nbspace/>
+                <ITEXT CH="I have "/>
+                <ITEXT CPARENT="Example highlight" CH="nine"/>
+                <ITEXT CH=" cats, "/>
+                <ITEXT CPARENT="Example highlight" CH="210 million"/>
+                <ITEXT CH=" frogs, and "/>
+                <ITEXT CPARENT="Example highlight" CH="one billion"/>
+                <ITEXT CH=" dogs."/>
+                <para PARENT="Example"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="6821.33333333333" OwnPage="8" ItemID="123311824" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="orange.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="6676" OwnPage="8" ItemID="122734096" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="Document Type Guidelines"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="6779" OwnPage="8" ItemID="122737056" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2619" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Document types"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="7008.6" OwnPage="8" ItemID="122740016" PTYPE="4" WIDTH="286" HEIGHT="48.6000000000004" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="teal.Light" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="10" TEXTRA="5" BEXTRA="5" REXTRA="10" VAlign="1" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 48.6 L0 48.6 L0 0 Z" copath="M0 0 L286 0 L286 48.6 L0 48.6 L0 0 Z" gXpos="120" gYpos="7008.6" gWidth="0" gHeight="0" PSTYLE="Note" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Note"/>
+                <ITEXT CPARENT="Example bold" FONT="Raleway Black" FCOLOR="White" CH="Note:"/>
+                <ITEXT CH=" When documents are revised, update their titles with the date of the revision."/>
+                <trail PARENT="Note"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="7057.2" OwnPage="8" ItemID="122742976" PTYPE="4" WIDTH="476.666666666667" HEIGHT="390.799999999998" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 390.8 L0 390.8 L0 0 Z" copath="M0 0 L476.667 0 L476.667 390.8 L0 390.8 L0 0 Z" gXpos="120" gYpos="2897.2" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="8.2 Informational documents"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="These documents serve as knowledge repositories. Everyone should contribute to them so that we all benefit. Information contained in these documents can be about the game, but not contained within it."/>
+                <para PARENT="Body"/>
+                <ITEXT CH="8.3 Game mechanics documents"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Mechanical documents detail how the various aspects of the game function. They can also indicate information that appears in the game itself. For example, the Bestiary and Monster moves documents."/>
+                <para PARENT="Body"/>
+                <ITEXT CH="8.4 Game story documents"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="There are three story documents: Quests, Plot, and Dialogue. Each has its own purpose, discussed in detail below. Everything related to the game's story and story telling is contained within the story documents - including how each part is incorporated into the game's mechanics."/>
+                <para PARENT="Body"/>
+                <ITEXT CH="8.5 Planning documents"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="The Task list and Art documents are the primary planning documents. Others exist, but aren't meant for long-term use. These documents coordinate our efforts so that we don't duplicate work and can track progress on the project."/>
+                <para PARENT="Body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="7653.33333333333" OwnPage="9" ItemID="122745936" PTYPE="4" WIDTH="476.666666666667" HEIGHT="389.066666666671" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 389.067 L0 389.067 L0 0 Z" copath="M0 0 L476.667 0 L476.667 389.067 L0 389.067 L0 0 Z" gXpos="120" gYpos="2661.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="9.1 Bestiary"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="9.1a General"/>
+                <para PARENT="Sub topic title"/>
+                <ITEXT CH="The Bestiary is a table with all of the Monsters in Monster Guru. Every Monster has different statistics, images, types, notes, and capture options. With so many details, this document can quickly become overwhelming if we stray from established guidelines. No one should add more columns to the document, unless the team as a whole decides it's necessary. "/>
+                <para PARENT="Indent body"/>
+                <ITEXT CH="Only change monster stats or add new monsters when the team has reviewed and approved changes. The stats for the Monsters in this document form the basis for gameplay in Monster Guru. Changing the numbers in this table can easily unbalance gameplay."/>
+                <para PARENT="Indent body"/>
+                <ITEXT CH="Text within the document should contain complete sentences and follow the rules of grammar laid out in this style guide, The Chicago Manual of Style, and Dictionary.com."/>
+                <para PARENT="Indent body"/>
+                <ITEXT CH="9.1b Formatting"/>
+                <para PARENT="Sub topic title"/>
+                <ITEXT CH="These are the only columns that should appear in the bestiary: Picture, Path File Name, Name, Type, hp, mp, atk, def, magatk, magdef, Speed, Capture Condition, Capture Notes, and Stats Notes. The columns should appear in this order. Notice that all column titles are capitalized except for the abbreviations, e.g. hp."/>
+                <trail PARENT="Indent body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="7653.33333333333" OwnPage="9" ItemID="123314656" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="orange.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="7508" OwnPage="9" ItemID="110250416" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="Document Type Guidelines"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="7609" OwnPage="9" ItemID="110253376" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2617" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Game mechanics documents"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="201.266205305654" YPOS="8042.4" OwnPage="9" ItemID="123317488" PTYPE="2" WIDTH="314.13425605536" HEIGHT="129.599999999999" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.224221453287195" LOCALSCY="0.224221453287195" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Bestiary formatting.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L314.134 0 L314.134 129.6 L0 129.6 L0 0 Z" copath="M0 0 L314.134 0 L314.134 129.6 L0 129.6 L0 0 Z" ImageRes="0" gXpos="201.266205305654" gYpos="8042.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="120" YPOS="8172" OwnPage="9" ItemID="110256336" PTYPE="4" WIDTH="476.666666666667" HEIGHT="108" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 108 L0 108 L0 0 Z" copath="M0 0 L476.667 0 L476.667 108 L0 108 L0 0 Z" gXpos="120" gYpos="3180" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="Column titles should be center justified and placed in the middle of the box. The titles should be colored a light gray and the background black. These colors highlight the column titles, making it easy to determine which stat you're looking at."/>
+                <para PARENT="Indent body"/>
+                <ITEXT CH="All text within the document should be twelve-point Times New Roman. "/>
+                <trail PARENT="Indent body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="8485.33333333333" OwnPage="10" ItemID="110259296" PTYPE="4" WIDTH="476.666666666667" HEIGHT="113.066666666673" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 113.067 L0 113.067 L0 0 Z" copath="M0 0 L476.667 0 L476.667 113.067 L0 113.067 L0 0 Z" gXpos="120" gYpos="2661.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="9.2 Monster Moves"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Every column in the Monster Moves table is a different move type. The rows of the table are the various Monster moves that fall under the type categories. Moves that are not yet assigned a type are placed to the right of the table. For further formatting reference, refer to the image below."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="8485.33333333333" OwnPage="10" ItemID="123320320" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="orange.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="8340" OwnPage="10" ItemID="110262256" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="Document Type Guidelines"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="8441" OwnPage="10" ItemID="109974128" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2617" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Game mechanics documents"/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="8598.4" OwnPage="10" ItemID="123323152" PTYPE="2" WIDTH="572" HEIGHT="194.400000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.452889944576405" LOCALSCY="0.452889944576405" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Monster moves.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L572 0 L572 194.4 L0 194.4 L0 0 Z" copath="M0 0 L572 0 L572 194.4 L0 194.4 L0 0 Z" ImageRes="0" gXpos="120" gYpos="7766.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="120" YPOS="8792.8" OwnPage="10" ItemID="109977088" PTYPE="4" WIDTH="476.666666666667" HEIGHT="319.199999999995" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 319.2 L0 319.2 L0 0 Z" copath="M0 0 L476.667 0 L476.667 319.2 L0 319.2 L0 0 Z" gXpos="120" gYpos="2968.8" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="While this table may seem cluttered with information at first, its purpose is to organize the different Monster moves in Monster Guru into a coherent and logical format."/>
+                <para PARENT="Body"/>
+                <ITEXT CH="Story documents"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="10.1 Quests"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Quests must be documented in a particular format. Each chapter is broken up by a heading that containes the title of the chapter. Within each of these chapters, every quest is given: a number, name, quests unlocked on completion, a description of the quest, bullets for events required to finish, and a list of other awards given (items, creatures, etc.) or effects that happen (disable an event). "/>
+                <trail PARENT="Body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="8993.4" OwnPage="10" ItemID="123325984" PTYPE="2" WIDTH="476.666666666667" HEIGHT="118.599999999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.587751746814633" LOCALSCY="0.587751746814633" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Quest entry.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L476.667 0 L476.667 118.6 L0 118.6 L0 0 Z" copath="M0 0 L476.667 0 L476.667 118.6 L0 118.6 L0 0 Z" ImageRes="0" gXpos="120" gYpos="8161.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="120" YPOS="9317.33333333333" OwnPage="11" ItemID="109980048" PTYPE="4" WIDTH="476.666666666667" HEIGHT="113.066666666673" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 113.067 L0 113.067 L0 0 Z" copath="M0 0 L476.667 0 L476.667 113.067 L0 113.067 L0 0 Z" gXpos="120" gYpos="2661.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="If a numbered list is used for the events, then those events must be completed sequentially to finish the quest. Nothing more complicated than either an unordered list or ordered list can be done in the scope of our game. "/>
+                <para PARENT="Body"/>
+                <ITEXT CH="To do something more complicated, we must work within the constraints of this system."/>
+                <nbspace/>
+                <ITEXT CH="For example: a &quot;this or that&quot; type mission, have quest A disable either quest B or C on completion."/>
+                <trail PARENT="Body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="9317.33333333333" OwnPage="11" ItemID="123328816" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="orange.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="9172" OwnPage="11" ItemID="109983008" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="Document Type Guidelines"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="9273" OwnPage="11" ItemID="109985968" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2617" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Story documents, continued..."/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="9430.4" OwnPage="11" ItemID="123331648" PTYPE="2" WIDTH="572" HEIGHT="194.400000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.637377049180331" LOCALSCY="0.637377049180331" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Quest format.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L572 0 L572 194.4 L0 194.4 L0 0 Z" copath="M0 0 L572 0 L572 194.4 L0 194.4 L0 0 Z" ImageRes="0" gXpos="120" gYpos="7766.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="120" YPOS="9624.8" OwnPage="11" ItemID="128917568" PTYPE="4" WIDTH="476.666666666667" HEIGHT="319.199999999995" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 319.2 L0 319.2 L0 0 Z" copath="M0 0 L476.667 0 L476.667 319.2 L0 319.2 L0 0 Z" gXpos="120" gYpos="2968.8" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="Remember, it is imperative that if a quest disables another quest, then that information is prominently displayed in the quest title."/>
+                <para PARENT="Body"/>
+                <ITEXT CH="10.2 Plot"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="The plot document should be formatted in a similar manner as the quests document. Each section of the document should have a title that tells readers what the section contains. There are two primary types of sections: scene and quest. Between these two types of sections, the plot document lays out the progression of in-game events. "/>
+                <para PARENT="Body"/>
+                <ITEXT CH="As depicted in the image below, scene sections should be titled in the following manner: Scene 000. The number is determined by sequential order. The title for a scene should be highlighted in orange for easy reference. Each scene section should have a short description, followed by requirements for the scene, such as art, music, or SFX. Depending on the scene, there might be a description followed by requirements, then another description followed by requirements, and so on until the scene is complete. Requirements should be bold face and followed by a colon."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="10149.3333333333" OwnPage="12" ItemID="123334480" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="orange.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="10004" OwnPage="12" ItemID="128920528" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="Document Type Guidelines"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="10105" OwnPage="12" ItemID="128923488" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2617" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Story documents, continued..."/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="10147.3333333333" OwnPage="12" ItemID="110487424" PTYPE="2" WIDTH="460.801090661223" HEIGHT="275.466666666673" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.563326516700763" LOCALSCY="0.563326516700763" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Plot.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L460.801 0 L460.801 275.467 L0 275.467 L0 0 Z" copath="M0 0 L460.801 0 L460.801 275.467 L0 275.467 L0 0 Z" ImageRes="0" gXpos="120" gYpos="7651.33333333333" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="120" YPOS="10422.8" OwnPage="12" ItemID="128926448" PTYPE="4" WIDTH="476.666666666667" HEIGHT="103.599999999997" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 103.6 L0 103.6 L0 0 Z" copath="M0 0 L476.667 0 L476.667 103.6 L0 103.6 L0 0 Z" gXpos="120" gYpos="2934.8" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="Quest sections are formatted in a different manner than scene sections. First and foremost, the section title is highlighted in green. The first item of information should be location, followed by a colon. Then come interaction and dialogue, also followed by a colon. "/>
+                <ITEXT FONT="Raleway Bold" CH="Quest sections must have a completion requirement."/>
+                <ITEXT CH=" A bulleted list of needs for quest development follows the completion requirement."/>
+                <trail/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="10526.4" OwnPage="12" ItemID="110490256" PTYPE="2" WIDTH="572" HEIGHT="194.400000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.706172839506173" LOCALSCY="0.706172839506173" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/plot quest.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L572 0 L572 194.4 L0 194.4 L0 0 Z" copath="M0 0 L572 0 L572 194.4 L0 194.4 L0 0 Z" ImageRes="0" gXpos="120" gYpos="8030.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="120" YPOS="10981.3333333333" OwnPage="13" ItemID="128929408" PTYPE="4" WIDTH="476.666666666667" HEIGHT="185.066666666673" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 185.067 L0 185.067 L0 0 Z" copath="M0 0 L476.667 0 L476.667 185.067 L0 185.067 L0 0 Z" gXpos="120" gYpos="2661.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="10.3 Dialogue"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="Dialogue found in the storyline and quests documents should follow common dialogue rules. In the case of a specific character’s dialogue, state the character’s name, followed by a colon. After the colon, insert the dialogue text, with quotation marks at the beginning and the end (punctuation at the end of a sentence is placed inside the quotation marks). Capitalize the first word after the colon. Refer to the image below for an example of dialogue."/>
+                <para PARENT="Body"/>
+                <ITEXT CH="If the dialogue is longer than one paragraph, then there is a special rule for quotation marks. Every paragraph of dialogue must begin with a quotation mark. However, the only ending quotation mark should be placed at the end of the final paragraph."/>
+                <trail PARENT="Body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="10981.3333333333" OwnPage="13" ItemID="110493088" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="orange.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="10836" OwnPage="13" ItemID="113161968" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="Document Type Guidelines"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="10939" OwnPage="13" ItemID="113164928" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2619" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Story documents, continued..."/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="11166.4" OwnPage="13" ItemID="110495920" PTYPE="2" WIDTH="470.8" HEIGHT="211.200000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.55433070866142" LOCALSCY="0.55433070866142" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Dialogue.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L470.8 0 L470.8 211.2 L0 211.2 L0 0 Z" copath="M0 0 L470.8 0 L470.8 211.2 L0 211.2 L0 0 Z" ImageRes="0" gXpos="120" gYpos="7838.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="120" YPOS="11383.2" OwnPage="13" ItemID="113167888" PTYPE="4" WIDTH="476.666666666667" HEIGHT="224.799999999995" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 224.8 L0 224.8 L0 0 Z" copath="M0 0 L476.667 0 L476.667 224.8 L0 224.8 L0 0 Z" gXpos="120" gYpos="3063.2" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="Planning documents"/>
+                <para PARENT="H3"/>
+                <ITEXT CH="11.1 Task List"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="The task list indicates progress on the Monster Guru project. The table is divided into many different categories. Each task is broken up into task parts. As task parts are completed, they should be highlighted green and the completion text (DONE) entered into the Expected Completion column. "/>
+                <para PARENT="Body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="11812.3333333333" OwnPage="14" ItemID="113170848" PTYPE="4" WIDTH="476.666666666667" HEIGHT="74.0666666666748" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 74.0667 L0 74.0667 L0 0 Z" copath="M0 0 L476.667 0 L476.667 74.0667 L0 74.0667 L0 0 Z" gXpos="120" gYpos="2660.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="If possible, keep track of the actual amount of time required to complete each task part. Record this information in the Actual Time column. The Expected Time column is measured in hours and tells the reader how long completion for a particular task part is likely to take. Refer to the example below for more information."/>
+                <trail PARENT="Body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="11813.3333333333" OwnPage="14" ItemID="110498752" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="orange.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="11668" OwnPage="14" ItemID="113173808" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="Document Type Guidelines"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="11771" OwnPage="14" ItemID="126729040" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2619" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Planning documents, continued..."/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="11886.4" OwnPage="14" ItemID="109768816" PTYPE="2" WIDTH="474.94070351759" HEIGHT="278.800000000001" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.350251256281408" LOCALSCY="0.350251256281408" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Task list.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L474.941 0 L474.941 278.8 L0 278.8 L0 0 Z" copath="M0 0 L474.941 0 L474.941 278.8 L0 278.8 L0 0 Z" ImageRes="0" gXpos="120" gYpos="7726.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="120" YPOS="12165.2" OwnPage="14" ItemID="126732000" PTYPE="4" WIDTH="476.666666666667" HEIGHT="224.799999999995" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 224.8 L0 224.8 L0 0 Z" copath="M0 0 L476.667 0 L476.667 224.8 L0 224.8 L0 0 Z" gXpos="120" gYpos="3013.2" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="11.2 Art"/>
+                <para PARENT="Topic title"/>
+                <ITEXT CH="The art in Monster Guru is a precious resource and the time of the artist is even more precious. As a result, the art table presents the various pieces of art that Monster Guru needs, so that the artist’s time is spent on relevant work. "/>
+                <para PARENT="Body"/>
+                <ITEXT CH="The table should consist of three columns (Art, Description, and Dimensions), and as many rows as are necessary. Each new row represents a different piece of art. The art table is color coded to represent the current state of art pieces. Color coding should only be updated by the artist. "/>
+                <trail PARENT="Body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="12644.3333333333" OwnPage="15" ItemID="126734960" PTYPE="4" WIDTH="476.666666666667" HEIGHT="89.2666666666737" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="10" BEXTRA="0" REXTRA="0" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L476.667 0 L476.667 89.2667 L0 89.2667 L0 0 Z" copath="M0 0 L476.667 0 L476.667 89.2667 L0 89.2667 L0 0 Z" gXpos="120" gYpos="2660.33333333333" gWidth="0" gHeight="0" PSTYLE="Body" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="Body"/>
+                <ITEXT CH="The key contained within the art table lays out the meaning of the color coding. Yellow indicates that the art piece is still needed. Light blue indicates that the art piece is finished. Green shows that the art piece is in the game and ready to go. Red tells you that there is a problem, a question, or some unresolved issue that needs to be taken care of before the art piece can be used in Monster Guru."/>
+                <trail PARENT="Body"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="712" YPOS="12645.3333333333" OwnPage="15" ItemID="109771648" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="orange.Primary" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="2661.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="12500" OwnPage="15" ItemID="126737920" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="2516" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="Document Type Guidelines"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="12603" OwnPage="15" ItemID="126740880" PTYPE="4" WIDTH="286" HEIGHT="42.3333333333335" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" VAlign="2" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" copath="M0 0 L286 0 L286 42.3333 L0 42.3333 L0 0 Z" gXpos="120" gYpos="2619" gWidth="0" gHeight="0" PSTYLE="H3" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H3"/>
+                <ITEXT CH="Planning documents, continued..."/>
+                <trail PARENT="H3"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="120" YPOS="12734.4" OwnPage="15" ItemID="109774480" PTYPE="2" WIDTH="476.4" HEIGHT="412.000000000002" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="0.463963963963966" LOCALSCY="0.463963963963966" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="0" RATIO="1" Pagenumber="0" PFILE="Images/Art.jpg" IRENDER="0" EMBEDDED="0" path="M0 0 L476.4 0 L476.4 412 L0 412 L0 0 Z" copath="M0 0 L476.4 0 L476.4 412 L0 412 L0 0 Z" ImageRes="0" gXpos="120" gYpos="7742.4" gWidth="0" gHeight="0" LAYER="0" NEXTITEM="-1" BACKITEM="-1"/>
+        <PAGEOBJECT XPOS="712" YPOS="1829.33333333333" OwnPage="2" ItemID="109777312" PTYPE="6" WIDTH="613.2" HEIGHT="145.6" FRTYPE="4" CLIPEDIT="1" ROT="180" PWIDTH="1" PCOLOR="grey.Dark" PLINEART="1" path="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" copath="M0 0 L613.2 145.6 L0 145.6 L0 0 Z" gXpos="712" gYpos="1829.33333333333" gWidth="0" gHeight="0" LAYER="0"/>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="1684" OwnPage="2" ItemID="138810128" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="1684" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="Introduction"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+        <PAGEOBJECT XPOS="310.666666666667" YPOS="852" OwnPage="1" ItemID="138813088" PTYPE="4" WIDTH="401.333333333333" HEIGHT="145.333333333333" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PLINEART="1" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" LOCALROT="0" PICART="1" SCALETYPE="1" RATIO="1" COLUMNS="1" COLGAP="0" AUTOTEXT="0" EXTRA="0" TEXTRA="30" BEXTRA="0" REXTRA="20" VAlign="0" FLOP="0" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" path="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" copath="M0 0 L401.333 0 L401.333 145.333 L0 145.333 L0 0 Z" gXpos="310.666666666667" gYpos="852" gWidth="0" gHeight="0" PSTYLE="H2" ALIGN="2" LAYER="0" NEXTITEM="-1" BACKITEM="-1">
+            <StoryText>
+                <DefaultStyle PARENT="H2" ALIGN="2" FCOLOR="White"/>
+                <ITEXT FCOLOR="White" CH="Contents"/>
+                <trail PARENT="H2" ALIGN="2"/>
+            </StoryText>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
